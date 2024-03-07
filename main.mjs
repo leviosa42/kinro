@@ -22,7 +22,10 @@ const processed = scraped.map(el => {
   }
 });
 
-const json = JSON.stringify({createdAt: new Date().toISOString(), processed }, null, 2);
+const json = JSON.stringify({
+  createdAt: new Date().toISOString(), 
+  movies: processed
+}, null, 2);
 console.log(json);
 
 
