@@ -1,6 +1,7 @@
 name: deploy
 
 on:
+  push:
   workflow_dispatch:
   schedule:
     # every week on Friday at 23:00 JST = 14:00 UTC
