@@ -17,8 +17,8 @@ jobs:
           node-version: '20.x'
       - name: run scripts
         run: |
-          mkdir /public
-          node main.mjs > /public/lineup.json
+          mkdir ./public
+          node main.mjs > ./public/lineup.json
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
