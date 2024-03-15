@@ -1,35 +1,19 @@
 {
-  "createdAt": "2024-03-08T14:07:34.853Z",
+  "createdAt": "2024-03-15T14:07:46.696Z",
   "movies": [
-    {
-      "title": "アーヤと魔女",
-      "broadcastDate": "2024.3.15",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e8a0c82ed9ce53e116965cd8e2d881f36e86c74b.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240315",
-      "lineupId": "514",
-      "mitaiCount": "11691",
-      "raw": {
-        "href": "/lineup/20240315",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e8a0c82ed9ce53e116965cd8e2d881f36e86c74b.jpg",
-        "date": "2024.3.15放送",
-        "lineupid": "514",
-        "mitai": "11691",
-        "title": "アーヤと魔女"
-      }
-    },
     {
       "title": "魔女の宅急便",
       "broadcastDate": "2024.3.22",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9fb9b41ce35b0db78c57a07f0ad75dc756f72891.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240322",
       "lineupId": "513",
-      "mitaiCount": "27675",
+      "mitaiCount": "36148",
       "raw": {
         "href": "/lineup/20240322",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9fb9b41ce35b0db78c57a07f0ad75dc756f72891.jpg",
         "date": "2024.3.22放送",
         "lineupid": "513",
-        "mitai": "27675",
+        "mitai": "36148",
         "title": "魔女の宅急便"
       }
     },
@@ -39,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a8224a68c18723d6edab92b5d3368f094f000e39.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240329",
       "lineupId": "515",
-      "mitaiCount": "4912",
+      "mitaiCount": "6889",
       "raw": {
         "href": "/lineup/20240329",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a8224a68c18723d6edab92b5d3368f094f000e39.jpg",
         "date": "2024.3.29放送",
         "lineupid": "515",
-        "mitai": "4912",
+        "mitai": "6889",
         "title": "ゴーストバスターズ／アフターライフ"
       }
     },
@@ -55,13 +39,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2eaff1dd15e20b9c4addc6092861d7a6eabe2820.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240405",
       "lineupId": "516",
-      "mitaiCount": "20784",
+      "mitaiCount": "32003",
       "raw": {
         "href": "/lineup/20240405",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2eaff1dd15e20b9c4addc6092861d7a6eabe2820.jpg",
         "date": "2024.4.5放送",
         "lineupid": "516",
-        "mitai": "20784",
+        "mitai": "32003",
         "title": "すずめの戸締まり"
       }
     }
