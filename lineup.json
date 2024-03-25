@@ -1,35 +1,19 @@
 {
-  "createdAt": "2024-03-22T14:07:47.152Z",
+  "createdAt": "2024-03-25T01:24:20.584Z",
   "movies": [
-    {
-      "title": "魔女の宅急便",
-      "broadcastDate": "2024.3.22",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9fb9b41ce35b0db78c57a07f0ad75dc756f72891.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240322",
-      "lineupId": "513",
-      "mitaiCount": "47225",
-      "raw": {
-        "href": "/lineup/20240322",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9fb9b41ce35b0db78c57a07f0ad75dc756f72891.jpg",
-        "date": "2024.3.22放送",
-        "lineupid": "513",
-        "mitai": "47225",
-        "title": "魔女の宅急便"
-      }
-    },
     {
       "title": "ゴーストバスターズ／アフターライフ",
       "broadcastDate": "2024.3.29",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a8224a68c18723d6edab92b5d3368f094f000e39.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240329",
       "lineupId": "515",
-      "mitaiCount": "8908",
+      "mitaiCount": "9572",
       "raw": {
         "href": "/lineup/20240329",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a8224a68c18723d6edab92b5d3368f094f000e39.jpg",
         "date": "2024.3.29放送",
         "lineupid": "515",
-        "mitai": "8908",
+        "mitai": "9572",
         "title": "ゴーストバスターズ／アフターライフ"
       }
     },
@@ -39,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2eaff1dd15e20b9c4addc6092861d7a6eabe2820.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240405",
       "lineupId": "516",
-      "mitaiCount": "42818",
+      "mitaiCount": "47013",
       "raw": {
         "href": "/lineup/20240405",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2eaff1dd15e20b9c4addc6092861d7a6eabe2820.jpg",
         "date": "2024.4.5放送",
         "lineupid": "516",
-        "mitai": "42818",
+        "mitai": "47013",
         "title": "すずめの戸締まり"
       }
     },
@@ -55,13 +39,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/5b46ce2c83f683511f94cf7c50bde7d59ca5ebac.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240412",
       "lineupId": "517",
-      "mitaiCount": "3517",
+      "mitaiCount": "5937",
       "raw": {
         "href": "/lineup/20240412",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/5b46ce2c83f683511f94cf7c50bde7d59ca5ebac.jpg",
         "date": "2024.4.12放送",
         "lineupid": "517",
-        "mitai": "3517",
+        "mitai": "5937",
         "title": "名探偵コナン　紺青の拳（フィスト）"
       }
     },
@@ -71,13 +55,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/098ab6a750e679763f7bc9dd893bd15f5824e384.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240419",
       "lineupId": "518",
-      "mitaiCount": "5671",
+      "mitaiCount": "9571",
       "raw": {
         "href": "/lineup/20240419",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/098ab6a750e679763f7bc9dd893bd15f5824e384.jpg",
         "date": "2024.4.19放送",
         "lineupid": "518",
-        "mitai": "5671",
+        "mitai": "9571",
         "title": "名探偵コナン　黒鉄の魚影（サブマリン）"
       }
     }
