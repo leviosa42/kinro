@@ -1,35 +1,19 @@
 {
-  "createdAt": "2024-04-12T14:07:06.303Z",
+  "createdAt": "2024-04-19T14:06:40.255Z",
   "movies": [
-    {
-      "title": "名探偵コナン　黒鉄の魚影（サブマリン）",
-      "broadcastDate": "2024.4.19",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/098ab6a750e679763f7bc9dd893bd15f5824e384.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240419",
-      "lineupId": "518",
-      "mitaiCount": "44528",
-      "raw": {
-        "href": "/lineup/20240419",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/098ab6a750e679763f7bc9dd893bd15f5824e384.jpg",
-        "date": "2024.4.19放送",
-        "lineupid": "518",
-        "mitai": "44528",
-        "title": "名探偵コナン　黒鉄の魚影（サブマリン）"
-      }
-    },
     {
       "title": "シンデレラ",
       "broadcastDate": "2024.4.26",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9ce24ac34a799e0d93ce9828a0be4abb74828279.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240426",
       "lineupId": "519",
-      "mitaiCount": "10419",
+      "mitaiCount": "14763",
       "raw": {
         "href": "/lineup/20240426",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9ce24ac34a799e0d93ce9828a0be4abb74828279.jpg",
         "date": "2024.4.26放送",
         "lineupid": "519",
-        "mitai": "10419",
+        "mitai": "14763",
         "title": "シンデレラ"
       }
     },
@@ -39,14 +23,30 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/753a8911bc0c5013413d1d5755bf9479dc88bbcc.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240503",
       "lineupId": "520",
-      "mitaiCount": "3449",
+      "mitaiCount": "8458",
       "raw": {
         "href": "/lineup/20240503",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/753a8911bc0c5013413d1d5755bf9479dc88bbcc.jpg",
         "date": "2024.5.3放送",
         "lineupid": "520",
-        "mitai": "3449",
+        "mitai": "8458",
         "title": "猫の恩返し"
+      }
+    },
+    {
+      "title": "耳をすませば",
+      "broadcastDate": "2024.5.10",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/1adabf7ea842e6b2de23a2d53ff1c74c0ac51bac.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240510",
+      "lineupId": "521",
+      "mitaiCount": "1523",
+      "raw": {
+        "href": "/lineup/20240510",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/1adabf7ea842e6b2de23a2d53ff1c74c0ac51bac.jpg",
+        "date": "2024.5.10放送",
+        "lineupid": "521",
+        "mitai": "1523",
+        "title": "耳をすませば"
       }
     }
   ]
