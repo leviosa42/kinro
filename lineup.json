@@ -1,35 +1,19 @@
 {
-  "createdAt": "2024-04-19T14:06:40.255Z",
+  "createdAt": "2024-04-26T14:07:07.661Z",
   "movies": [
-    {
-      "title": "シンデレラ",
-      "broadcastDate": "2024.4.26",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9ce24ac34a799e0d93ce9828a0be4abb74828279.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240426",
-      "lineupId": "519",
-      "mitaiCount": "14763",
-      "raw": {
-        "href": "/lineup/20240426",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9ce24ac34a799e0d93ce9828a0be4abb74828279.jpg",
-        "date": "2024.4.26放送",
-        "lineupid": "519",
-        "mitai": "14763",
-        "title": "シンデレラ"
-      }
-    },
     {
       "title": "猫の恩返し",
       "broadcastDate": "2024.5.3",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/753a8911bc0c5013413d1d5755bf9479dc88bbcc.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240503",
       "lineupId": "520",
-      "mitaiCount": "8458",
+      "mitaiCount": "15704",
       "raw": {
         "href": "/lineup/20240503",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/753a8911bc0c5013413d1d5755bf9479dc88bbcc.jpg",
         "date": "2024.5.3放送",
         "lineupid": "520",
-        "mitai": "8458",
+        "mitai": "15704",
         "title": "猫の恩返し"
       }
     },
@@ -39,14 +23,62 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/1adabf7ea842e6b2de23a2d53ff1c74c0ac51bac.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240510",
       "lineupId": "521",
-      "mitaiCount": "1523",
+      "mitaiCount": "5043",
       "raw": {
         "href": "/lineup/20240510",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/1adabf7ea842e6b2de23a2d53ff1c74c0ac51bac.jpg",
         "date": "2024.5.10放送",
         "lineupid": "521",
-        "mitai": "1523",
+        "mitai": "5043",
         "title": "耳をすませば"
+      }
+    },
+    {
+      "title": "ジュラシック・ワールド",
+      "broadcastDate": "2024.5.17",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/d24ce2b9d802da14b6f9b0c106900d242d7ef41b.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240517",
+      "lineupId": "522",
+      "mitaiCount": "1231",
+      "raw": {
+        "href": "/lineup/20240517",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/d24ce2b9d802da14b6f9b0c106900d242d7ef41b.jpg",
+        "date": "2024.5.17放送",
+        "lineupid": "522",
+        "mitai": "1231",
+        "title": "ジュラシック・ワールド"
+      }
+    },
+    {
+      "title": "ジュラシック・ワールド／炎の王国",
+      "broadcastDate": "2024.5.24",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/48be7c86e1a9aeeb210ae48fb94a3574aef11ff8.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240524",
+      "lineupId": "523",
+      "mitaiCount": "747",
+      "raw": {
+        "href": "/lineup/20240524",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/48be7c86e1a9aeeb210ae48fb94a3574aef11ff8.jpg",
+        "date": "2024.5.24放送",
+        "lineupid": "523",
+        "mitai": "747",
+        "title": "ジュラシック・ワールド／炎の王国"
+      }
+    },
+    {
+      "title": "ジュラシック・ワールド／新たなる支配者",
+      "broadcastDate": "2024.5.31",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/695b1f93e5ef8a8633b562ddee17008e5bc75d32.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240531",
+      "lineupId": "524",
+      "mitaiCount": "1229",
+      "raw": {
+        "href": "/lineup/20240531",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/695b1f93e5ef8a8633b562ddee17008e5bc75d32.jpg",
+        "date": "2024.5.31放送",
+        "lineupid": "524",
+        "mitai": "1229",
+        "title": "ジュラシック・ワールド／新たなる支配者"
       }
     }
   ]
