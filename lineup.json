@@ -1,35 +1,19 @@
 {
-  "createdAt": "2024-05-03T14:08:06.744Z",
+  "createdAt": "2024-05-10T14:07:07.473Z",
   "movies": [
-    {
-      "title": "耳をすませば",
-      "broadcastDate": "2024.5.10",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/1adabf7ea842e6b2de23a2d53ff1c74c0ac51bac.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240510",
-      "lineupId": "521",
-      "mitaiCount": "8739",
-      "raw": {
-        "href": "/lineup/20240510",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/1adabf7ea842e6b2de23a2d53ff1c74c0ac51bac.jpg",
-        "date": "2024.5.10放送",
-        "lineupid": "521",
-        "mitai": "8739",
-        "title": "耳をすませば"
-      }
-    },
     {
       "title": "ジュラシック・ワールド",
       "broadcastDate": "2024.5.17",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/d24ce2b9d802da14b6f9b0c106900d242d7ef41b.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240517",
       "lineupId": "522",
-      "mitaiCount": "3024",
+      "mitaiCount": "5555",
       "raw": {
         "href": "/lineup/20240517",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/d24ce2b9d802da14b6f9b0c106900d242d7ef41b.jpg",
         "date": "2024.5.17放送",
         "lineupid": "522",
-        "mitai": "3024",
+        "mitai": "5555",
         "title": "ジュラシック・ワールド"
       }
     },
@@ -39,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/48be7c86e1a9aeeb210ae48fb94a3574aef11ff8.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240524",
       "lineupId": "523",
-      "mitaiCount": "1741",
+      "mitaiCount": "2865",
       "raw": {
         "href": "/lineup/20240524",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/48be7c86e1a9aeeb210ae48fb94a3574aef11ff8.jpg",
         "date": "2024.5.24放送",
         "lineupid": "523",
-        "mitai": "1741",
+        "mitai": "2865",
         "title": "ジュラシック・ワールド／炎の王国"
       }
     },
@@ -55,13 +39,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/695b1f93e5ef8a8633b562ddee17008e5bc75d32.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240531",
       "lineupId": "524",
-      "mitaiCount": "2942",
+      "mitaiCount": "4677",
       "raw": {
         "href": "/lineup/20240531",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/695b1f93e5ef8a8633b562ddee17008e5bc75d32.jpg",
         "date": "2024.5.31放送",
         "lineupid": "524",
-        "mitai": "2942",
+        "mitai": "4677",
         "title": "ジュラシック・ワールド／新たなる支配者"
       }
     }
