@@ -1,35 +1,19 @@
 {
-  "createdAt": "2024-05-10T14:07:07.473Z",
+  "createdAt": "2024-05-17T14:08:26.159Z",
   "movies": [
-    {
-      "title": "ジュラシック・ワールド",
-      "broadcastDate": "2024.5.17",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/d24ce2b9d802da14b6f9b0c106900d242d7ef41b.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240517",
-      "lineupId": "522",
-      "mitaiCount": "5555",
-      "raw": {
-        "href": "/lineup/20240517",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/d24ce2b9d802da14b6f9b0c106900d242d7ef41b.jpg",
-        "date": "2024.5.17放送",
-        "lineupid": "522",
-        "mitai": "5555",
-        "title": "ジュラシック・ワールド"
-      }
-    },
     {
       "title": "ジュラシック・ワールド／炎の王国",
       "broadcastDate": "2024.5.24",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/48be7c86e1a9aeeb210ae48fb94a3574aef11ff8.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240524",
       "lineupId": "523",
-      "mitaiCount": "2865",
+      "mitaiCount": "4520",
       "raw": {
         "href": "/lineup/20240524",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/48be7c86e1a9aeeb210ae48fb94a3574aef11ff8.jpg",
         "date": "2024.5.24放送",
         "lineupid": "523",
-        "mitai": "2865",
+        "mitai": "4520",
         "title": "ジュラシック・ワールド／炎の王国"
       }
     },
@@ -39,14 +23,62 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/695b1f93e5ef8a8633b562ddee17008e5bc75d32.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240531",
       "lineupId": "524",
-      "mitaiCount": "4677",
+      "mitaiCount": "6723",
       "raw": {
         "href": "/lineup/20240531",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/695b1f93e5ef8a8633b562ddee17008e5bc75d32.jpg",
         "date": "2024.5.31放送",
         "lineupid": "524",
-        "mitai": "4677",
+        "mitai": "6723",
         "title": "ジュラシック・ワールド／新たなる支配者"
+      }
+    },
+    {
+      "title": "ミッション: インポッシブル",
+      "broadcastDate": "2024.6.7",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/6040c6c8483909956d83b7689e3086f4d45eb244.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240607",
+      "lineupId": "527",
+      "mitaiCount": "966",
+      "raw": {
+        "href": "/lineup/20240607",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/6040c6c8483909956d83b7689e3086f4d45eb244.jpg",
+        "date": "2024.6.7放送",
+        "lineupid": "527",
+        "mitai": "966",
+        "title": "ミッション: インポッシブル"
+      }
+    },
+    {
+      "title": "ミッション:インポッシブル2",
+      "broadcastDate": "2024.6.14",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9da9fbe970c12208e3cddf9d9c93ee332c9b3d20.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240614",
+      "lineupId": "525",
+      "mitaiCount": "515",
+      "raw": {
+        "href": "/lineup/20240614",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9da9fbe970c12208e3cddf9d9c93ee332c9b3d20.jpg",
+        "date": "2024.6.14放送",
+        "lineupid": "525",
+        "mitai": "515",
+        "title": "ミッション:インポッシブル2"
+      }
+    },
+    {
+      "title": "ミッション:インポッシブル3",
+      "broadcastDate": "2024.6.21",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/7d991f930f54c138b5467e0aea4e6cc796d53c0e.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240621",
+      "lineupId": "526",
+      "mitaiCount": "559",
+      "raw": {
+        "href": "/lineup/20240621",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/7d991f930f54c138b5467e0aea4e6cc796d53c0e.jpg",
+        "date": "2024.6.21放送",
+        "lineupid": "526",
+        "mitai": "559",
+        "title": "ミッション:インポッシブル3"
       }
     }
   ]
