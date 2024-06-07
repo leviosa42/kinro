@@ -1,51 +1,19 @@
 {
-  "createdAt": "2024-05-31T14:07:31.918Z",
+  "createdAt": "2024-06-07T14:09:06.397Z",
   "movies": [
-    {
-      "title": "ジュラシック・ワールド／新たなる支配者",
-      "broadcastDate": "2024.5.31",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/695b1f93e5ef8a8633b562ddee17008e5bc75d32.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240531",
-      "lineupId": "524",
-      "mitaiCount": "14028",
-      "raw": {
-        "href": "/lineup/20240531",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/695b1f93e5ef8a8633b562ddee17008e5bc75d32.jpg",
-        "date": "2024.5.31放送",
-        "lineupid": "524",
-        "mitai": "14028",
-        "title": "ジュラシック・ワールド／新たなる支配者"
-      }
-    },
-    {
-      "title": "ミッション:インポッシブル",
-      "broadcastDate": "2024.6.7",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/6040c6c8483909956d83b7689e3086f4d45eb244.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240607",
-      "lineupId": "527",
-      "mitaiCount": "3618",
-      "raw": {
-        "href": "/lineup/20240607",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/6040c6c8483909956d83b7689e3086f4d45eb244.jpg",
-        "date": "2024.6.7放送",
-        "lineupid": "527",
-        "mitai": "3618",
-        "title": "ミッション:インポッシブル"
-      }
-    },
     {
       "title": "ミッション:インポッシブル2",
       "broadcastDate": "2024.6.14",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9da9fbe970c12208e3cddf9d9c93ee332c9b3d20.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240614",
       "lineupId": "525",
-      "mitaiCount": "1719",
+      "mitaiCount": "2859",
       "raw": {
         "href": "/lineup/20240614",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9da9fbe970c12208e3cddf9d9c93ee332c9b3d20.jpg",
         "date": "2024.6.14放送",
         "lineupid": "525",
-        "mitai": "1719",
+        "mitai": "2859",
         "title": "ミッション:インポッシブル2"
       }
     },
@@ -55,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/7d991f930f54c138b5467e0aea4e6cc796d53c0e.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240621",
       "lineupId": "526",
-      "mitaiCount": "1779",
+      "mitaiCount": "2648",
       "raw": {
         "href": "/lineup/20240621",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/7d991f930f54c138b5467e0aea4e6cc796d53c0e.jpg",
         "date": "2024.6.21放送",
         "lineupid": "526",
-        "mitai": "1779",
+        "mitai": "2648",
         "title": "ミッション:インポッシブル3"
       }
     }
