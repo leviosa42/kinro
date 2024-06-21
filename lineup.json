@@ -1,35 +1,19 @@
 {
-  "createdAt": "2024-06-14T14:09:28.568Z",
+  "createdAt": "2024-06-21T14:06:37.663Z",
   "movies": [
-    {
-      "title": "ミッション:インポッシブル2",
-      "broadcastDate": "2024.6.14",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9da9fbe970c12208e3cddf9d9c93ee332c9b3d20.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240614",
-      "lineupId": "525",
-      "mitaiCount": "5146",
-      "raw": {
-        "href": "/lineup/20240614",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9da9fbe970c12208e3cddf9d9c93ee332c9b3d20.jpg",
-        "date": "2024.6.14放送",
-        "lineupid": "525",
-        "mitai": "5146",
-        "title": "ミッション:インポッシブル2"
-      }
-    },
     {
       "title": "ミッション:インポッシブル3",
       "broadcastDate": "2024.6.21",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/7d991f930f54c138b5467e0aea4e6cc796d53c0e.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240621",
       "lineupId": "526",
-      "mitaiCount": "3704",
+      "mitaiCount": "6034",
       "raw": {
         "href": "/lineup/20240621",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/7d991f930f54c138b5467e0aea4e6cc796d53c0e.jpg",
         "date": "2024.6.21放送",
         "lineupid": "526",
-        "mitai": "3704",
+        "mitai": "6034",
         "title": "ミッション:インポッシブル3"
       }
     },
@@ -39,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/6decbc5c8f455ea90fc3591179a37d13eb884299.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240628",
       "lineupId": "528",
-      "mitaiCount": "1807",
+      "mitaiCount": "5647",
       "raw": {
         "href": "/lineup/20240628",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/6decbc5c8f455ea90fc3591179a37d13eb884299.jpg",
         "date": "2024.6.28放送",
         "lineupid": "528",
-        "mitai": "1807",
+        "mitai": "5647",
         "title": "キングダム　スペシャルエディション"
       }
     },
@@ -55,13 +39,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/b108082c87be48e2a2e68bea8281f2d453e42cee.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240705",
       "lineupId": "529",
-      "mitaiCount": "1027",
+      "mitaiCount": "2819",
       "raw": {
         "href": "/lineup/20240705",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/b108082c87be48e2a2e68bea8281f2d453e42cee.jpg",
         "date": "2024.7.5放送",
         "lineupid": "529",
-        "mitai": "1027",
+        "mitai": "2819",
         "title": "キングダム2　遥かなる大地へ　スペシャルエディション"
       }
     },
@@ -71,13 +55,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/03481b0192246dfad008fe25931236cf364aad36.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240712",
       "lineupId": "530",
-      "mitaiCount": "1319",
+      "mitaiCount": "3704",
       "raw": {
         "href": "/lineup/20240712",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/03481b0192246dfad008fe25931236cf364aad36.jpg",
         "date": "2024.7.12放送",
         "lineupid": "530",
-        "mitai": "1319",
+        "mitai": "3704",
         "title": "キングダム　運命の炎"
       }
     }
