@@ -1,5 +1,5 @@
 {
-  "createdAt": "2024-07-05T14:08:37.119Z",
+  "createdAt": "2024-07-12T14:07:46.306Z",
   "movies": [
     {
       "title": "キングダム　運命の炎",
@@ -7,13 +7,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/03481b0192246dfad008fe25931236cf364aad36.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240712",
       "lineupId": "530",
-      "mitaiCount": "9008",
+      "mitaiCount": "14736",
       "raw": {
         "href": "/lineup/20240712",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/03481b0192246dfad008fe25931236cf364aad36.jpg",
         "date": "2024.7.12放送",
         "lineupid": "530",
-        "mitai": "9008",
+        "mitai": "14736",
         "title": "キングダム　運命の炎"
       }
     },
@@ -23,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/74d6d6bb1c9b34b29698f5c31c89e21566b2877e.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240719",
       "lineupId": "531",
-      "mitaiCount": "12393",
+      "mitaiCount": "21304",
       "raw": {
         "href": "/lineup/20240719",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/74d6d6bb1c9b34b29698f5c31c89e21566b2877e.jpg",
         "date": "2024.7.19放送",
         "lineupid": "531",
-        "mitai": "12393",
+        "mitai": "21304",
         "title": "リメンバー・ミー"
       }
     },
@@ -39,13 +39,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/c89a01b167a72e417fc8d58b7207d8a21656ae95.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240726",
       "lineupId": "532",
-      "mitaiCount": "5782",
+      "mitaiCount": "9350",
       "raw": {
         "href": "/lineup/20240726",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/c89a01b167a72e417fc8d58b7207d8a21656ae95.jpg",
         "date": "2024.7.26放送",
         "lineupid": "532",
-        "mitai": "5782",
+        "mitai": "9350",
         "title": "トイ・ストーリー"
       }
     },
@@ -55,13 +55,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9184d58a328d075a82e8ccb4b87a41be35d541b6.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240802",
       "lineupId": "533",
-      "mitaiCount": "4070",
+      "mitaiCount": "6458",
       "raw": {
         "href": "/lineup/20240802",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9184d58a328d075a82e8ccb4b87a41be35d541b6.jpg",
         "date": "2024.8.2放送",
         "lineupid": "533",
-        "mitai": "4070",
+        "mitai": "6458",
         "title": "トイ・ストーリー2"
       }
     }
