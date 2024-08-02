@@ -1,36 +1,52 @@
 {
-  "createdAt": "2024-07-26T14:07:50.396Z",
+  "createdAt": "2024-08-02T14:08:22.938Z",
   "movies": [
-    {
-      "title": "トイ・ストーリー2",
-      "broadcastDate": "2024.8.2",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9184d58a328d075a82e8ccb4b87a41be35d541b6.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240802",
-      "lineupId": "533",
-      "mitaiCount": "13534",
-      "raw": {
-        "href": "/lineup/20240802",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9184d58a328d075a82e8ccb4b87a41be35d541b6.jpg",
-        "date": "2024.8.2放送",
-        "lineupid": "533",
-        "mitai": "13534",
-        "title": "トイ・ストーリー2"
-      }
-    },
     {
       "title": "映画 聲の形",
       "broadcastDate": "2024.8.16",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0e6fb3bf131a24c3ea04e6cde501f412af0e0efc.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240816",
       "lineupId": "534",
-      "mitaiCount": "4060",
+      "mitaiCount": "11169",
       "raw": {
         "href": "/lineup/20240816",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0e6fb3bf131a24c3ea04e6cde501f412af0e0efc.jpg",
         "date": "2024.8.16放送",
         "lineupid": "534",
-        "mitai": "4060",
+        "mitai": "11169",
         "title": "映画 聲の形"
+      }
+    },
+    {
+      "title": "となりのトトロ",
+      "broadcastDate": "2024.8.23",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e38acfa73d1ddeefc2b7ec9e9e3ccbcfb117c5b8.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240823",
+      "lineupId": "535",
+      "mitaiCount": "5245",
+      "raw": {
+        "href": "/lineup/20240823",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e38acfa73d1ddeefc2b7ec9e9e3ccbcfb117c5b8.jpg",
+        "date": "2024.8.23放送",
+        "lineupid": "535",
+        "mitai": "5245",
+        "title": "となりのトトロ"
+      }
+    },
+    {
+      "title": "天空の城ラピュタ",
+      "broadcastDate": "2024.8.30",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3830778b0b7ff0ae76cc00f6a568e4e9357cffef.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240830",
+      "lineupId": "536",
+      "mitaiCount": "3620",
+      "raw": {
+        "href": "/lineup/20240830",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3830778b0b7ff0ae76cc00f6a568e4e9357cffef.jpg",
+        "date": "2024.8.30放送",
+        "lineupid": "536",
+        "mitai": "3620",
+        "title": "天空の城ラピュタ"
       }
     }
   ]
