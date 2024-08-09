@@ -1,5 +1,5 @@
 {
-  "createdAt": "2024-08-02T14:08:22.938Z",
+  "createdAt": "2024-08-09T14:09:05.681Z",
   "movies": [
     {
       "title": "映画 聲の形",
@@ -7,13 +7,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0e6fb3bf131a24c3ea04e6cde501f412af0e0efc.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240816",
       "lineupId": "534",
-      "mitaiCount": "11169",
+      "mitaiCount": "18929",
       "raw": {
         "href": "/lineup/20240816",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0e6fb3bf131a24c3ea04e6cde501f412af0e0efc.jpg",
         "date": "2024.8.16放送",
         "lineupid": "534",
-        "mitai": "11169",
+        "mitai": "18929",
         "title": "映画 聲の形"
       }
     },
@@ -23,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e38acfa73d1ddeefc2b7ec9e9e3ccbcfb117c5b8.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240823",
       "lineupId": "535",
-      "mitaiCount": "5245",
+      "mitaiCount": "15289",
       "raw": {
         "href": "/lineup/20240823",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e38acfa73d1ddeefc2b7ec9e9e3ccbcfb117c5b8.jpg",
         "date": "2024.8.23放送",
         "lineupid": "535",
-        "mitai": "5245",
+        "mitai": "15289",
         "title": "となりのトトロ"
       }
     },
@@ -39,13 +39,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3830778b0b7ff0ae76cc00f6a568e4e9357cffef.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240830",
       "lineupId": "536",
-      "mitaiCount": "3620",
+      "mitaiCount": "9795",
       "raw": {
         "href": "/lineup/20240830",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3830778b0b7ff0ae76cc00f6a568e4e9357cffef.jpg",
         "date": "2024.8.30放送",
         "lineupid": "536",
-        "mitai": "3620",
+        "mitai": "9795",
         "title": "天空の城ラピュタ"
       }
     }
