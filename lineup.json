@@ -1,51 +1,19 @@
 {
-  "createdAt": "2024-08-16T14:08:03.854Z",
+  "createdAt": "2024-08-23T14:08:34.141Z",
   "movies": [
-    {
-      "title": "映画 聲の形",
-      "broadcastDate": "2024.8.16",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0e6fb3bf131a24c3ea04e6cde501f412af0e0efc.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240816",
-      "lineupId": "534",
-      "mitaiCount": "27086",
-      "raw": {
-        "href": "/lineup/20240816",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0e6fb3bf131a24c3ea04e6cde501f412af0e0efc.jpg",
-        "date": "2024.8.16放送",
-        "lineupid": "534",
-        "mitai": "27086",
-        "title": "映画 聲の形"
-      }
-    },
-    {
-      "title": "となりのトトロ",
-      "broadcastDate": "2024.8.23",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e38acfa73d1ddeefc2b7ec9e9e3ccbcfb117c5b8.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240823",
-      "lineupId": "535",
-      "mitaiCount": "25352",
-      "raw": {
-        "href": "/lineup/20240823",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e38acfa73d1ddeefc2b7ec9e9e3ccbcfb117c5b8.jpg",
-        "date": "2024.8.23放送",
-        "lineupid": "535",
-        "mitai": "25352",
-        "title": "となりのトトロ"
-      }
-    },
     {
       "title": "天空の城ラピュタ",
       "broadcastDate": "2024.8.30",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3830778b0b7ff0ae76cc00f6a568e4e9357cffef.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240830",
       "lineupId": "536",
-      "mitaiCount": "15976",
+      "mitaiCount": "27159",
       "raw": {
         "href": "/lineup/20240830",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3830778b0b7ff0ae76cc00f6a568e4e9357cffef.jpg",
         "date": "2024.8.30放送",
         "lineupid": "536",
-        "mitai": "15976",
+        "mitai": "27159",
         "title": "天空の城ラピュタ"
       }
     },
@@ -55,14 +23,30 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/526c419b3886883ae47b1af940872b28afd08e9c.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240906",
       "lineupId": "541",
-      "mitaiCount": "4067",
+      "mitaiCount": "13080",
       "raw": {
         "href": "/lineup/20240906",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/526c419b3886883ae47b1af940872b28afd08e9c.jpg",
         "date": "2024.9.6放送",
         "lineupid": "541",
-        "mitai": "4067",
+        "mitai": "13080",
         "title": "ベイマックス"
+      }
+    },
+    {
+      "title": "今日から俺は!!劇場版",
+      "broadcastDate": "2024.9.13",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/1b19f264b251ca88f29da19caa7cf12e406272a3.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240913",
+      "lineupId": "542",
+      "mitaiCount": "2760",
+      "raw": {
+        "href": "/lineup/20240913",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/1b19f264b251ca88f29da19caa7cf12e406272a3.jpg",
+        "date": "2024.9.13放送",
+        "lineupid": "542",
+        "mitai": "2760",
+        "title": "今日から俺は!!劇場版"
       }
     }
   ]
