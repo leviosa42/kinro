@@ -1,5 +1,5 @@
 {
-  "createdAt": "2024-08-23T14:08:34.141Z",
+  "createdAt": "2024-08-30T14:08:13.429Z",
   "movies": [
     {
       "title": "天空の城ラピュタ",
@@ -7,13 +7,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3830778b0b7ff0ae76cc00f6a568e4e9357cffef.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240830",
       "lineupId": "536",
-      "mitaiCount": "27159",
+      "mitaiCount": "44584",
       "raw": {
         "href": "/lineup/20240830",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3830778b0b7ff0ae76cc00f6a568e4e9357cffef.jpg",
         "date": "2024.8.30放送",
         "lineupid": "536",
-        "mitai": "27159",
+        "mitai": "44584",
         "title": "天空の城ラピュタ"
       }
     },
@@ -23,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/526c419b3886883ae47b1af940872b28afd08e9c.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240906",
       "lineupId": "541",
-      "mitaiCount": "13080",
+      "mitaiCount": "23731",
       "raw": {
         "href": "/lineup/20240906",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/526c419b3886883ae47b1af940872b28afd08e9c.jpg",
         "date": "2024.9.6放送",
         "lineupid": "541",
-        "mitai": "13080",
+        "mitai": "23731",
         "title": "ベイマックス"
       }
     },
@@ -39,14 +39,46 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/1b19f264b251ca88f29da19caa7cf12e406272a3.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240913",
       "lineupId": "542",
-      "mitaiCount": "2760",
+      "mitaiCount": "7168",
       "raw": {
         "href": "/lineup/20240913",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/1b19f264b251ca88f29da19caa7cf12e406272a3.jpg",
         "date": "2024.9.13放送",
         "lineupid": "542",
-        "mitai": "2760",
+        "mitai": "7168",
         "title": "今日から俺は!!劇場版"
+      }
+    },
+    {
+      "title": "トイ・ストーリー3",
+      "broadcastDate": "2024.9.20",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cf7df908eb3016315dc2ec54aebc8538c4013b18.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240920",
+      "lineupId": "543",
+      "mitaiCount": "2431",
+      "raw": {
+        "href": "/lineup/20240920",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cf7df908eb3016315dc2ec54aebc8538c4013b18.jpg",
+        "date": "2024.9.20放送",
+        "lineupid": "543",
+        "mitai": "2431",
+        "title": "トイ・ストーリー3"
+      }
+    },
+    {
+      "title": "バズ・ライトイヤー",
+      "broadcastDate": "2024.9.27",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/add62f11184efc8134d4313e874c16b30c243bac.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240927",
+      "lineupId": "544",
+      "mitaiCount": "2458",
+      "raw": {
+        "href": "/lineup/20240927",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/add62f11184efc8134d4313e874c16b30c243bac.jpg",
+        "date": "2024.9.27放送",
+        "lineupid": "544",
+        "mitai": "2458",
+        "title": "バズ・ライトイヤー"
       }
     }
   ]
