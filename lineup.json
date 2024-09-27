@@ -1,35 +1,19 @@
 {
-  "createdAt": "2024-09-20T14:09:43.504Z",
+  "createdAt": "2024-09-27T14:09:20.195Z",
   "movies": [
-    {
-      "title": "バズ・ライトイヤー",
-      "broadcastDate": "2024.9.27",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/add62f11184efc8134d4313e874c16b30c243bac.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20240927",
-      "lineupId": "544",
-      "mitaiCount": "15319",
-      "raw": {
-        "href": "/lineup/20240927",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/add62f11184efc8134d4313e874c16b30c243bac.jpg",
-        "date": "2024.9.27放送",
-        "lineupid": "544",
-        "mitai": "15319",
-        "title": "バズ・ライトイヤー"
-      }
-    },
     {
       "title": "名探偵ピカチュウ",
       "broadcastDate": "2024.10.4",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/41a2dbf8e77d47bdc0ecf3723796a87a49af0072.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241004",
       "lineupId": "545",
-      "mitaiCount": "8838",
+      "mitaiCount": "11958",
       "raw": {
         "href": "/lineup/20241004",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/41a2dbf8e77d47bdc0ecf3723796a87a49af0072.jpg",
         "date": "2024.10.4放送",
         "lineupid": "545",
-        "mitai": "8838",
+        "mitai": "11958",
         "title": "名探偵ピカチュウ"
       }
     },
@@ -39,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/c03001e7f012f42d21fcb53f7f02bb529f7a475a.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241011",
       "lineupId": "546",
-      "mitaiCount": "14591",
+      "mitaiCount": "22451",
       "raw": {
         "href": "/lineup/20241011",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/c03001e7f012f42d21fcb53f7f02bb529f7a475a.jpg",
         "date": "2024.10.11放送",
         "lineupid": "546",
-        "mitai": "14591",
+        "mitai": "22451",
         "title": "塔の上のラプンツェル"
       }
     },
@@ -55,13 +39,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0dc7e532880de206fbbc61b6a6afc7015907f3dd.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241018",
       "lineupId": "547",
-      "mitaiCount": "8413",
+      "mitaiCount": "12106",
       "raw": {
         "href": "/lineup/20241018",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0dc7e532880de206fbbc61b6a6afc7015907f3dd.jpg",
         "date": "2024.10.18放送",
         "lineupid": "547",
-        "mitai": "8413",
+        "mitai": "12106",
         "title": "アリス・イン・ワンダーランド"
       }
     },
@@ -71,13 +55,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/67dd03e6dddb68a4f3b8fd87ca71f69d55bb6031.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241025",
       "lineupId": "548",
-      "mitaiCount": "1216",
+      "mitaiCount": "2392",
       "raw": {
         "href": "/lineup/20241025",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/67dd03e6dddb68a4f3b8fd87ca71f69d55bb6031.jpg",
         "date": "2024.10.25放送",
         "lineupid": "548",
-        "mitai": "1216",
+        "mitai": "2392",
         "title": "ACMA:GAMEアクマゲーム ワールドエンド"
       }
     }
