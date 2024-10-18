@@ -1,35 +1,19 @@
 {
-  "createdAt": "2024-10-11T14:09:38.125Z",
+  "createdAt": "2024-10-18T14:09:07.102Z",
   "movies": [
-    {
-      "title": "アリス・イン・ワンダーランド",
-      "broadcastDate": "2024.10.18",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0dc7e532880de206fbbc61b6a6afc7015907f3dd.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241018",
-      "lineupId": "547",
-      "mitaiCount": "21427",
-      "raw": {
-        "href": "/lineup/20241018",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0dc7e532880de206fbbc61b6a6afc7015907f3dd.jpg",
-        "date": "2024.10.18放送",
-        "lineupid": "547",
-        "mitai": "21427",
-        "title": "アリス・イン・ワンダーランド"
-      }
-    },
     {
       "title": "ACMA:GAMEアクマゲーム ワールドエンド",
       "broadcastDate": "2024.10.25",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/67dd03e6dddb68a4f3b8fd87ca71f69d55bb6031.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241025",
       "lineupId": "548",
-      "mitaiCount": "4789",
+      "mitaiCount": "6295",
       "raw": {
         "href": "/lineup/20241025",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/67dd03e6dddb68a4f3b8fd87ca71f69d55bb6031.jpg",
         "date": "2024.10.25放送",
         "lineupid": "548",
-        "mitai": "4789",
+        "mitai": "6295",
         "title": "ACMA:GAMEアクマゲーム ワールドエンド"
       }
     },
@@ -39,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/bfd3d6858e3b1c9f1112a101f3ae8c1e06e32459.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241101",
       "lineupId": "549",
-      "mitaiCount": "5684",
+      "mitaiCount": "9378",
       "raw": {
         "href": "/lineup/20241101",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/bfd3d6858e3b1c9f1112a101f3ae8c1e06e32459.jpg",
         "date": "2024.11.1放送",
         "lineupid": "549",
-        "mitai": "5684",
+        "mitai": "9378",
         "title": "ゴジラ-1.0"
       }
     },
@@ -55,13 +39,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/165cd3904fb54e8f2013feae30093392b0686aa9.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241108",
       "lineupId": "550",
-      "mitaiCount": "1226",
+      "mitaiCount": "3282",
       "raw": {
         "href": "/lineup/20241108",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/165cd3904fb54e8f2013feae30093392b0686aa9.jpg",
         "date": "2024.11.8放送",
         "lineupid": "550",
-        "mitai": "1226",
+        "mitai": "3282",
         "title": "トップガン"
       }
     },
@@ -71,13 +55,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/d7c4e13a1e8b1bef560079ad0003728312e028c8.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241115",
       "lineupId": "551",
-      "mitaiCount": "1182",
+      "mitaiCount": "3020",
       "raw": {
         "href": "/lineup/20241115",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/d7c4e13a1e8b1bef560079ad0003728312e028c8.jpg",
         "date": "2024.11.15放送",
         "lineupid": "551",
-        "mitai": "1182",
+        "mitai": "3020",
         "title": "トップガン　マーヴェリック"
       }
     }
