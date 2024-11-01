@@ -1,5 +1,5 @@
 {
-  "createdAt": "2024-10-25T14:09:14.833Z",
+  "createdAt": "2024-11-01T14:09:25.155Z",
   "movies": [
     {
       "title": "ゴジラ-1.0",
@@ -7,29 +7,29 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/bfd3d6858e3b1c9f1112a101f3ae8c1e06e32459.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241101",
       "lineupId": "549",
-      "mitaiCount": "14042",
+      "mitaiCount": "19555",
       "raw": {
         "href": "/lineup/20241101",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/bfd3d6858e3b1c9f1112a101f3ae8c1e06e32459.jpg",
         "date": "2024.11.1放送",
         "lineupid": "549",
-        "mitai": "14042",
+        "mitai": "19555",
         "title": "ゴジラ-1.0"
       }
     },
     {
       "title": "トップガン",
       "broadcastDate": "2024.11.8",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/165cd3904fb54e8f2013feae30093392b0686aa9.jpg",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a0203c751bff786e27db23991188f77dcea3d662.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241108",
       "lineupId": "550",
-      "mitaiCount": "5394",
+      "mitaiCount": "7228",
       "raw": {
         "href": "/lineup/20241108",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/165cd3904fb54e8f2013feae30093392b0686aa9.jpg",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a0203c751bff786e27db23991188f77dcea3d662.jpg",
         "date": "2024.11.8放送",
         "lineupid": "550",
-        "mitai": "5394",
+        "mitai": "7228",
         "title": "トップガン"
       }
     },
@@ -39,14 +39,30 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/d7c4e13a1e8b1bef560079ad0003728312e028c8.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241115",
       "lineupId": "551",
-      "mitaiCount": "4740",
+      "mitaiCount": "6119",
       "raw": {
         "href": "/lineup/20241115",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/d7c4e13a1e8b1bef560079ad0003728312e028c8.jpg",
         "date": "2024.11.15放送",
         "lineupid": "551",
-        "mitai": "4740",
+        "mitai": "6119",
         "title": "トップガン　マーヴェリック"
+      }
+    },
+    {
+      "title": "モアナと伝説の海",
+      "broadcastDate": "2024.11.22",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3a95a8a7917b01ed2f61a537a7c98d92494f7a53.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241122",
+      "lineupId": "552",
+      "mitaiCount": "4449",
+      "raw": {
+        "href": "/lineup/20241122",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3a95a8a7917b01ed2f61a537a7c98d92494f7a53.jpg",
+        "date": "2024.11.22放送",
+        "lineupid": "552",
+        "mitai": "4449",
+        "title": "モアナと伝説の海"
       }
     }
   ]
