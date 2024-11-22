@@ -1,51 +1,19 @@
 {
-  "createdAt": "2024-11-15T14:09:43.680Z",
+  "createdAt": "2024-11-22T14:09:24.032Z",
   "movies": [
-    {
-      "title": "トップガン　マーヴェリック",
-      "broadcastDate": "2024.11.15",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/d7c4e13a1e8b1bef560079ad0003728312e028c8.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241115",
-      "lineupId": "551",
-      "mitaiCount": "12509",
-      "raw": {
-        "href": "/lineup/20241115",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/d7c4e13a1e8b1bef560079ad0003728312e028c8.jpg",
-        "date": "2024.11.15放送",
-        "lineupid": "551",
-        "mitai": "12509",
-        "title": "トップガン　マーヴェリック"
-      }
-    },
-    {
-      "title": "モアナと伝説の海",
-      "broadcastDate": "2024.11.22",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3a95a8a7917b01ed2f61a537a7c98d92494f7a53.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241122",
-      "lineupId": "552",
-      "mitaiCount": "24273",
-      "raw": {
-        "href": "/lineup/20241122",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3a95a8a7917b01ed2f61a537a7c98d92494f7a53.jpg",
-        "date": "2024.11.22放送",
-        "lineupid": "552",
-        "mitai": "24273",
-        "title": "モアナと伝説の海"
-      }
-    },
     {
       "title": "アナと雪の女王",
       "broadcastDate": "2024.11.29",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/ff679ee77bb380ae6f63bfaf0f060d5c8b8a70a6.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241129",
       "lineupId": "553",
-      "mitaiCount": "8196",
+      "mitaiCount": "13518",
       "raw": {
         "href": "/lineup/20241129",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/ff679ee77bb380ae6f63bfaf0f060d5c8b8a70a6.jpg",
         "date": "2024.11.29放送",
         "lineupid": "553",
-        "mitai": "8196",
+        "mitai": "13518",
         "title": "アナと雪の女王"
       }
     },
@@ -55,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/437e3107dbcea077934e8eaf9e6c6c57808487d3.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241206",
       "lineupId": "554",
-      "mitaiCount": "6861",
+      "mitaiCount": "10648",
       "raw": {
         "href": "/lineup/20241206",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/437e3107dbcea077934e8eaf9e6c6c57808487d3.jpg",
         "date": "2024.12.6放送",
         "lineupid": "554",
-        "mitai": "6861",
+        "mitai": "10648",
         "title": "アナと雪の女王2"
       }
     },
@@ -71,13 +39,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cda8f43c56d6e9b48cd1e22401a278ffc96cdc4e.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241213",
       "lineupId": "555",
-      "mitaiCount": "10053",
+      "mitaiCount": "15162",
       "raw": {
         "href": "/lineup/20241213",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cda8f43c56d6e9b48cd1e22401a278ffc96cdc4e.jpg",
         "date": "2024.12.13放送",
         "lineupid": "555",
-        "mitai": "10053",
+        "mitai": "15162",
         "title": "ディズニークリスマススペシャル『アナと雪の女王／家族の思い出』『美女と野獣／ベルの素敵なプレゼント』"
       }
     }
