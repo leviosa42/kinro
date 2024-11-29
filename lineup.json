@@ -1,35 +1,19 @@
 {
-  "createdAt": "2024-11-22T14:09:24.032Z",
+  "createdAt": "2024-11-29T14:09:49.828Z",
   "movies": [
-    {
-      "title": "アナと雪の女王",
-      "broadcastDate": "2024.11.29",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/ff679ee77bb380ae6f63bfaf0f060d5c8b8a70a6.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241129",
-      "lineupId": "553",
-      "mitaiCount": "13518",
-      "raw": {
-        "href": "/lineup/20241129",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/ff679ee77bb380ae6f63bfaf0f060d5c8b8a70a6.jpg",
-        "date": "2024.11.29放送",
-        "lineupid": "553",
-        "mitai": "13518",
-        "title": "アナと雪の女王"
-      }
-    },
     {
       "title": "アナと雪の女王2",
       "broadcastDate": "2024.12.6",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/437e3107dbcea077934e8eaf9e6c6c57808487d3.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241206",
       "lineupId": "554",
-      "mitaiCount": "10648",
+      "mitaiCount": "15476",
       "raw": {
         "href": "/lineup/20241206",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/437e3107dbcea077934e8eaf9e6c6c57808487d3.jpg",
         "date": "2024.12.6放送",
         "lineupid": "554",
-        "mitai": "10648",
+        "mitai": "15476",
         "title": "アナと雪の女王2"
       }
     },
@@ -39,14 +23,30 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cda8f43c56d6e9b48cd1e22401a278ffc96cdc4e.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241213",
       "lineupId": "555",
-      "mitaiCount": "15162",
+      "mitaiCount": "19790",
       "raw": {
         "href": "/lineup/20241213",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cda8f43c56d6e9b48cd1e22401a278ffc96cdc4e.jpg",
         "date": "2024.12.13放送",
         "lineupid": "555",
-        "mitai": "15162",
+        "mitai": "19790",
         "title": "ディズニークリスマススペシャル『アナと雪の女王／家族の思い出』『美女と野獣／ベルの素敵なプレゼント』"
+      }
+    },
+    {
+      "title": "ホーム・アローン2",
+      "broadcastDate": "2024.12.20",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/b1632f1561418560a51d9e494b9df3ac85f4b348.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241220",
+      "lineupId": "556",
+      "mitaiCount": "3053",
+      "raw": {
+        "href": "/lineup/20241220",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/b1632f1561418560a51d9e494b9df3ac85f4b348.jpg",
+        "date": "2024.12.20放送",
+        "lineupid": "556",
+        "mitai": "3053",
+        "title": "ホーム・アローン2"
       }
     }
   ]
