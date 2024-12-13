@@ -1,35 +1,19 @@
 {
-  "createdAt": "2024-12-06T14:09:53.321Z",
+  "createdAt": "2024-12-13T14:10:10.556Z",
   "movies": [
-    {
-      "title": "ディズニークリスマススペシャル『アナと雪の女王／家族の思い出』『美女と野獣／ベルの素敵なプレゼント』",
-      "broadcastDate": "2024.12.13",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cda8f43c56d6e9b48cd1e22401a278ffc96cdc4e.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241213",
-      "lineupId": "555",
-      "mitaiCount": "25084",
-      "raw": {
-        "href": "/lineup/20241213",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cda8f43c56d6e9b48cd1e22401a278ffc96cdc4e.jpg",
-        "date": "2024.12.13放送",
-        "lineupid": "555",
-        "mitai": "25084",
-        "title": "ディズニークリスマススペシャル『アナと雪の女王／家族の思い出』『美女と野獣／ベルの素敵なプレゼント』"
-      }
-    },
     {
       "title": "ホーム・アローン2",
       "broadcastDate": "2024.12.20",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/b1632f1561418560a51d9e494b9df3ac85f4b348.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20241220",
       "lineupId": "556",
-      "mitaiCount": "8047",
+      "mitaiCount": "15774",
       "raw": {
         "href": "/lineup/20241220",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/b1632f1561418560a51d9e494b9df3ac85f4b348.jpg",
         "date": "2024.12.20放送",
         "lineupid": "556",
-        "mitai": "8047",
+        "mitai": "15774",
         "title": "ホーム・アローン2"
       }
     },
@@ -39,14 +23,30 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/036abeb10bcfc79bdc42edd8b6e29ac2324c1748.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250103",
       "lineupId": "557",
-      "mitaiCount": "1397",
+      "mitaiCount": "5040",
       "raw": {
         "href": "/lineup/20250103",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/036abeb10bcfc79bdc42edd8b6e29ac2324c1748.jpg",
         "date": "2025.1.3放送",
         "lineupid": "557",
-        "mitai": "1397",
+        "mitai": "5040",
         "title": "ライオン・キング"
+      }
+    },
+    {
+      "title": "ハウルの動く城",
+      "broadcastDate": "2025.1.10",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/732996c8f2f452d6903c55be9bba4598ffb5cf55.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250110",
+      "lineupId": "558",
+      "mitaiCount": "4982",
+      "raw": {
+        "href": "/lineup/20250110",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/732996c8f2f452d6903c55be9bba4598ffb5cf55.jpg",
+        "date": "2025.1.10放送",
+        "lineupid": "558",
+        "mitai": "4982",
+        "title": "ハウルの動く城"
       }
     }
   ]
