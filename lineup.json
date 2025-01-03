@@ -1,5 +1,5 @@
 {
-  "createdAt": "2024-12-27T14:08:39.230Z",
+  "createdAt": "2025-01-03T14:08:48.941Z",
   "movies": [
     {
       "title": "ライオン・キング",
@@ -7,13 +7,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/036abeb10bcfc79bdc42edd8b6e29ac2324c1748.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250103",
       "lineupId": "557",
-      "mitaiCount": "13583",
+      "mitaiCount": "16684",
       "raw": {
         "href": "/lineup/20250103",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/036abeb10bcfc79bdc42edd8b6e29ac2324c1748.jpg",
         "date": "2025.1.3放送",
         "lineupid": "557",
-        "mitai": "13583",
+        "mitai": "16684",
         "title": "ライオン・キング"
       }
     },
@@ -23,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/732996c8f2f452d6903c55be9bba4598ffb5cf55.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250110",
       "lineupId": "558",
-      "mitaiCount": "19215",
+      "mitaiCount": "23469",
       "raw": {
         "href": "/lineup/20250110",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/732996c8f2f452d6903c55be9bba4598ffb5cf55.jpg",
         "date": "2025.1.10放送",
         "lineupid": "558",
-        "mitai": "19215",
+        "mitai": "23469",
         "title": "ハウルの動く城"
       }
     },
@@ -39,13 +39,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/ed7cda76ab00a53c58c7af2d07ea1fcd59c82323.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250117",
       "lineupId": "559",
-      "mitaiCount": "3725",
+      "mitaiCount": "5020",
       "raw": {
         "href": "/lineup/20250117",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/ed7cda76ab00a53c58c7af2d07ea1fcd59c82323.jpg",
         "date": "2025.1.17放送",
         "lineupid": "559",
-        "mitai": "3725",
+        "mitai": "5020",
         "title": "ハリー・ポッターと謎のプリンス"
       }
     },
@@ -55,13 +55,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/d1a0f59589b4b4d382a3ad9b477b9e41e23d8eae.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250124",
       "lineupId": "560",
-      "mitaiCount": "2024",
+      "mitaiCount": "2711",
       "raw": {
         "href": "/lineup/20250124",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/d1a0f59589b4b4d382a3ad9b477b9e41e23d8eae.jpg",
         "date": "2025.1.24放送",
         "lineupid": "560",
-        "mitai": "2024",
+        "mitai": "2711",
         "title": "ハリー・ポッターと死の秘宝 PART1"
       }
     },
@@ -71,13 +71,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/dfeb9109a7debded9de5007e3d114c602334e79d.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250131",
       "lineupId": "561",
-      "mitaiCount": "2030",
+      "mitaiCount": "2664",
       "raw": {
         "href": "/lineup/20250131",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/dfeb9109a7debded9de5007e3d114c602334e79d.jpg",
         "date": "2025.1.31放送",
         "lineupid": "561",
-        "mitai": "2030",
+        "mitai": "2664",
         "title": "ハリー・ポッターと死の秘宝 PART2"
       }
     }
