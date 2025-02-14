@@ -1,52 +1,52 @@
 {
-  "createdAt": "2025-02-07T14:09:14.136Z",
+  "createdAt": "2025-02-14T14:09:15.372Z",
   "movies": [
-    {
-      "title": "バック・トゥ・ザ・フューチャー 新吹替版",
-      "broadcastDate": "2025.2.7",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/017e2d655f3ecd993cd58ccff88c0c1c9dbcbf31.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250207",
-      "lineupId": "562",
-      "mitaiCount": "13048",
-      "raw": {
-        "href": "/lineup/20250207",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/017e2d655f3ecd993cd58ccff88c0c1c9dbcbf31.jpg",
-        "date": "2025.2.7放送",
-        "lineupid": "562",
-        "mitai": "13048",
-        "title": "バック・トゥ・ザ・フューチャー 新吹替版"
-      }
-    },
-    {
-      "title": "バック・トゥ・ザ・フューチャー PART2 新吹替版",
-      "broadcastDate": "2025.2.14",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e5a87ff9be0927f586fb7a6849da1a54ce456300.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250214",
-      "lineupId": "563",
-      "mitaiCount": "4581",
-      "raw": {
-        "href": "/lineup/20250214",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e5a87ff9be0927f586fb7a6849da1a54ce456300.jpg",
-        "date": "2025.2.14放送",
-        "lineupid": "563",
-        "mitai": "4581",
-        "title": "バック・トゥ・ザ・フューチャー PART2 新吹替版"
-      }
-    },
     {
       "title": "バック・トゥ・ザ・フューチャー PART3 新吹替版",
       "broadcastDate": "2025.2.21",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0fba6186cef16728121fe25c780812d3f5f93881.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250221",
       "lineupId": "564",
-      "mitaiCount": "3681",
+      "mitaiCount": "4950",
       "raw": {
         "href": "/lineup/20250221",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0fba6186cef16728121fe25c780812d3f5f93881.jpg",
         "date": "2025.2.21放送",
         "lineupid": "564",
-        "mitai": "3681",
+        "mitai": "4950",
         "title": "バック・トゥ・ザ・フューチャー PART3 新吹替版"
+      }
+    },
+    {
+      "title": "さよなら帝国劇場 最後の1日　THE ミュージカルデイ",
+      "broadcastDate": "2025.2.28",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/fa47d081b4381f17b6c4631f817dfa982ea16042.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250228",
+      "lineupId": "566",
+      "mitaiCount": "441",
+      "raw": {
+        "href": "/lineup/20250228",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/fa47d081b4381f17b6c4631f817dfa982ea16042.jpg",
+        "date": "2025.2.28放送",
+        "lineupid": "566",
+        "mitai": "441",
+        "title": "さよなら帝国劇場 最後の1日　THE ミュージカルデイ"
+      }
+    },
+    {
+      "title": "ゲド戦記",
+      "broadcastDate": "2025.3.7",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cfc07e1600bae061023a227c738e4655e29fd9f9.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250307",
+      "lineupId": "565",
+      "mitaiCount": "2626",
+      "raw": {
+        "href": "/lineup/20250307",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cfc07e1600bae061023a227c738e4655e29fd9f9.jpg",
+        "date": "2025.3.7放送",
+        "lineupid": "565",
+        "mitai": "2626",
+        "title": "ゲド戦記"
       }
     }
   ]
