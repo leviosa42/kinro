@@ -1,5 +1,5 @@
 {
-  "createdAt": "2025-02-14T14:09:15.372Z",
+  "createdAt": "2025-02-21T14:08:12.945Z",
   "movies": [
     {
       "title": "バック・トゥ・ザ・フューチャー PART3 新吹替版",
@@ -7,13 +7,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0fba6186cef16728121fe25c780812d3f5f93881.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250221",
       "lineupId": "564",
-      "mitaiCount": "4950",
+      "mitaiCount": "8596",
       "raw": {
         "href": "/lineup/20250221",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0fba6186cef16728121fe25c780812d3f5f93881.jpg",
         "date": "2025.2.21放送",
         "lineupid": "564",
-        "mitai": "4950",
+        "mitai": "8596",
         "title": "バック・トゥ・ザ・フューチャー PART3 新吹替版"
       }
     },
@@ -23,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/fa47d081b4381f17b6c4631f817dfa982ea16042.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250228",
       "lineupId": "566",
-      "mitaiCount": "441",
+      "mitaiCount": "2769",
       "raw": {
         "href": "/lineup/20250228",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/fa47d081b4381f17b6c4631f817dfa982ea16042.jpg",
         "date": "2025.2.28放送",
         "lineupid": "566",
-        "mitai": "441",
+        "mitai": "2769",
         "title": "さよなら帝国劇場 最後の1日　THE ミュージカルデイ"
       }
     },
@@ -39,14 +39,46 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cfc07e1600bae061023a227c738e4655e29fd9f9.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250307",
       "lineupId": "565",
-      "mitaiCount": "2626",
+      "mitaiCount": "9066",
       "raw": {
         "href": "/lineup/20250307",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cfc07e1600bae061023a227c738e4655e29fd9f9.jpg",
         "date": "2025.3.7放送",
         "lineupid": "565",
-        "mitai": "2626",
+        "mitai": "9066",
         "title": "ゲド戦記"
+      }
+    },
+    {
+      "title": "リトル・マーメイド",
+      "broadcastDate": "2025.3.21",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/5c0448070b43b3962f6257afc5fb15d932cb926d.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250321",
+      "lineupId": "568",
+      "mitaiCount": "2481",
+      "raw": {
+        "href": "/lineup/20250321",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/5c0448070b43b3962f6257afc5fb15d932cb926d.jpg",
+        "date": "2025.3.21放送",
+        "lineupid": "568",
+        "mitai": "2481",
+        "title": "リトル・マーメイド"
+      }
+    },
+    {
+      "title": "グレイテスト・ショーマン",
+      "broadcastDate": "2025.3.28",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2f441d30a5a1a0ae5cd9d58db635b7d5921e210a.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250328",
+      "lineupId": "569",
+      "mitaiCount": "1726",
+      "raw": {
+        "href": "/lineup/20250328",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2f441d30a5a1a0ae5cd9d58db635b7d5921e210a.jpg",
+        "date": "2025.3.28放送",
+        "lineupid": "569",
+        "mitai": "1726",
+        "title": "グレイテスト・ショーマン"
       }
     }
   ]
