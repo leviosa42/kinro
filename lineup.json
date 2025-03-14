@@ -1,35 +1,19 @@
 {
-  "createdAt": "2025-03-07T14:09:42.984Z",
+  "createdAt": "2025-03-14T14:09:47.639Z",
   "movies": [
-    {
-      "title": "ゲド戦記",
-      "broadcastDate": "2025.3.7",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cfc07e1600bae061023a227c738e4655e29fd9f9.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250307",
-      "lineupId": "565",
-      "mitaiCount": "26328",
-      "raw": {
-        "href": "/lineup/20250307",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cfc07e1600bae061023a227c738e4655e29fd9f9.jpg",
-        "date": "2025.3.7放送",
-        "lineupid": "565",
-        "mitai": "26328",
-        "title": "ゲド戦記"
-      }
-    },
     {
       "title": "リトル・マーメイド",
       "broadcastDate": "2025.3.21",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/5c0448070b43b3962f6257afc5fb15d932cb926d.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250321",
       "lineupId": "568",
-      "mitaiCount": "12909",
+      "mitaiCount": "19040",
       "raw": {
         "href": "/lineup/20250321",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/5c0448070b43b3962f6257afc5fb15d932cb926d.jpg",
         "date": "2025.3.21放送",
         "lineupid": "568",
-        "mitai": "12909",
+        "mitai": "19040",
         "title": "リトル・マーメイド"
       }
     },
@@ -39,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2f441d30a5a1a0ae5cd9d58db635b7d5921e210a.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250328",
       "lineupId": "569",
-      "mitaiCount": "8923",
+      "mitaiCount": "12481",
       "raw": {
         "href": "/lineup/20250328",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2f441d30a5a1a0ae5cd9d58db635b7d5921e210a.jpg",
         "date": "2025.3.28放送",
         "lineupid": "569",
-        "mitai": "8923",
+        "mitai": "12481",
         "title": "グレイテスト・ショーマン"
       }
     },
@@ -55,13 +39,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/c935abc8866adb955d5fab5dd8df85c1c63d1e88.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250404",
       "lineupId": "570",
-      "mitaiCount": "4320",
+      "mitaiCount": "8686",
       "raw": {
         "href": "/lineup/20250404",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/c935abc8866adb955d5fab5dd8df85c1c63d1e88.jpg",
         "date": "2025.4.4放送",
         "lineupid": "570",
-        "mitai": "4320",
+        "mitai": "8686",
         "title": "名探偵コナン　14番目の標的（ターゲット）"
       }
     },
@@ -71,13 +55,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a325cb023fe4f0046aecfb7b618f9f55729cbc99.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250411",
       "lineupId": "571",
-      "mitaiCount": "2960",
+      "mitaiCount": "5734",
       "raw": {
         "href": "/lineup/20250411",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a325cb023fe4f0046aecfb7b618f9f55729cbc99.jpg",
         "date": "2025.4.11放送",
         "lineupid": "571",
-        "mitai": "2960",
+        "mitai": "5734",
         "title": "名探偵コナン　水平線上の陰謀（ストラテジー）"
       }
     },
@@ -87,13 +71,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/37433ca3a177684be7816d08bb3f881e55e0c3b8.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250418",
       "lineupId": "572",
-      "mitaiCount": "8879",
+      "mitaiCount": "18636",
       "raw": {
         "href": "/lineup/20250418",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/37433ca3a177684be7816d08bb3f881e55e0c3b8.jpg",
         "date": "2025.4.18放送",
         "lineupid": "572",
-        "mitai": "8879",
+        "mitai": "18636",
         "title": "名探偵コナン　100万ドルの五稜星（みちしるべ）"
       }
     }
