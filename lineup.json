@@ -1,51 +1,19 @@
 {
-  "createdAt": "2025-04-18T14:09:52.034Z",
+  "createdAt": "2025-04-25T14:10:21.724Z",
   "movies": [
-    {
-      "title": "名探偵コナン　100万ドルの五稜星（みちしるべ）",
-      "broadcastDate": "2025.4.18",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/37433ca3a177684be7816d08bb3f881e55e0c3b8.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250418",
-      "lineupId": "572",
-      "mitaiCount": "77386",
-      "raw": {
-        "href": "/lineup/20250418",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/37433ca3a177684be7816d08bb3f881e55e0c3b8.jpg",
-        "date": "2025.4.18放送",
-        "lineupid": "572",
-        "mitai": "77386",
-        "title": "名探偵コナン　100万ドルの五稜星（みちしるべ）"
-      }
-    },
-    {
-      "title": "スター・ウォーズ／新たなる希望（エピソード4）",
-      "broadcastDate": "2025.4.25",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/bfe52c9671fb3d9c993171da3540420a5fb3d5e0.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250425",
-      "lineupId": "573",
-      "mitaiCount": "6382",
-      "raw": {
-        "href": "/lineup/20250425",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/bfe52c9671fb3d9c993171da3540420a5fb3d5e0.jpg",
-        "date": "2025.4.25放送",
-        "lineupid": "573",
-        "mitai": "6382",
-        "title": "スター・ウォーズ／新たなる希望（エピソード4）"
-      }
-    },
     {
       "title": "君たちはどう生きるか",
       "broadcastDate": "2025.5.2",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3f46146c058d8dc3c3da0f95450c1e084beeb091.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250502",
       "lineupId": "574",
-      "mitaiCount": "19874",
+      "mitaiCount": "33192",
       "raw": {
         "href": "/lineup/20250502",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3f46146c058d8dc3c3da0f95450c1e084beeb091.jpg",
         "date": "2025.5.2放送",
         "lineupid": "574",
-        "mitai": "19874",
+        "mitai": "33192",
         "title": "君たちはどう生きるか"
       }
     },
@@ -55,14 +23,62 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/97d2f28fbf656e4f27f722c9493a7084a1274a1e.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250509",
       "lineupId": "575",
-      "mitaiCount": "9522",
+      "mitaiCount": "14866",
       "raw": {
         "href": "/lineup/20250509",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/97d2f28fbf656e4f27f722c9493a7084a1274a1e.jpg",
         "date": "2025.5.9放送",
         "lineupid": "575",
-        "mitai": "9522",
+        "mitai": "14866",
         "title": "紅の豚"
+      }
+    },
+    {
+      "title": "ミッション:インポッシブル/ゴースト・プロトコル",
+      "broadcastDate": "2025.5.16",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/29fae408cdadcaeb2a5cf017f93047dbafc9d723.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250516",
+      "lineupId": "576",
+      "mitaiCount": "819",
+      "raw": {
+        "href": "/lineup/20250516",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/29fae408cdadcaeb2a5cf017f93047dbafc9d723.jpg",
+        "date": "2025.5.16放送",
+        "lineupid": "576",
+        "mitai": "819",
+        "title": "ミッション:インポッシブル/ゴースト・プロトコル"
+      }
+    },
+    {
+      "title": "ミッション:インポッシブル/ローグ・ネイション",
+      "broadcastDate": "2025.5.23",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/af004c1e079095a088052449d3d85f23d255c9c9.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250523",
+      "lineupId": "577",
+      "mitaiCount": "525",
+      "raw": {
+        "href": "/lineup/20250523",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/af004c1e079095a088052449d3d85f23d255c9c9.jpg",
+        "date": "2025.5.23放送",
+        "lineupid": "577",
+        "mitai": "525",
+        "title": "ミッション:インポッシブル/ローグ・ネイション"
+      }
+    },
+    {
+      "title": "ミッション:インポッシブル/フォールアウト",
+      "broadcastDate": "2025.5.30",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/794f233cc4b3bc9d609ab6f5f281db0eb291d3a1.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250530",
+      "lineupId": "578",
+      "mitaiCount": "548",
+      "raw": {
+        "href": "/lineup/20250530",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/794f233cc4b3bc9d609ab6f5f281db0eb291d3a1.jpg",
+        "date": "2025.5.30放送",
+        "lineupid": "578",
+        "mitai": "548",
+        "title": "ミッション:インポッシブル/フォールアウト"
       }
     }
   ]
