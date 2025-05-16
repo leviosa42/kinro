@@ -1,5 +1,5 @@
 {
-  "createdAt": "2025-05-09T14:10:49.067Z",
+  "createdAt": "2025-05-16T14:11:08.728Z",
   "movies": [
     {
       "title": "ミッション:インポッシブル/ゴースト・プロトコル",
@@ -7,13 +7,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/29fae408cdadcaeb2a5cf017f93047dbafc9d723.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250516",
       "lineupId": "576",
-      "mitaiCount": "4021",
+      "mitaiCount": "8081",
       "raw": {
         "href": "/lineup/20250516",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/29fae408cdadcaeb2a5cf017f93047dbafc9d723.jpg",
         "date": "2025.5.16放送",
         "lineupid": "576",
-        "mitai": "4021",
+        "mitai": "8081",
         "title": "ミッション:インポッシブル/ゴースト・プロトコル"
       }
     },
@@ -23,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/af004c1e079095a088052449d3d85f23d255c9c9.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250523",
       "lineupId": "577",
-      "mitaiCount": "2108",
+      "mitaiCount": "3445",
       "raw": {
         "href": "/lineup/20250523",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/af004c1e079095a088052449d3d85f23d255c9c9.jpg",
         "date": "2025.5.23放送",
         "lineupid": "577",
-        "mitai": "2108",
+        "mitai": "3445",
         "title": "ミッション:インポッシブル/ローグ・ネイション"
       }
     },
@@ -39,13 +39,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/794f233cc4b3bc9d609ab6f5f281db0eb291d3a1.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250530",
       "lineupId": "578",
-      "mitaiCount": "2129",
+      "mitaiCount": "3175",
       "raw": {
         "href": "/lineup/20250530",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/794f233cc4b3bc9d609ab6f5f281db0eb291d3a1.jpg",
         "date": "2025.5.30放送",
         "lineupid": "578",
-        "mitai": "2129",
+        "mitai": "3175",
         "title": "ミッション:インポッシブル/フォールアウト"
       }
     },
@@ -55,13 +55,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/1f46c44b0d71e2a1ed1b8cf5f5f694b00041d675.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250606",
       "lineupId": "579",
-      "mitaiCount": "3253",
+      "mitaiCount": "10139",
       "raw": {
         "href": "/lineup/20250606",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/1f46c44b0d71e2a1ed1b8cf5f5f694b00041d675.jpg",
         "date": "2025.6.6放送",
         "lineupid": "579",
-        "mitai": "3253",
+        "mitai": "10139",
         "title": "リロ＆スティッチ"
       }
     }
