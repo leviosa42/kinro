@@ -1,35 +1,19 @@
 {
-  "createdAt": "2025-05-23T14:10:56.093Z",
+  "createdAt": "2025-05-30T14:11:27.286Z",
   "movies": [
-    {
-      "title": "ミッション:インポッシブル/ローグ・ネイション",
-      "broadcastDate": "2025.5.23",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/af004c1e079095a088052449d3d85f23d255c9c9.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250523",
-      "lineupId": "577",
-      "mitaiCount": "6840",
-      "raw": {
-        "href": "/lineup/20250523",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/af004c1e079095a088052449d3d85f23d255c9c9.jpg",
-        "date": "2025.5.23放送",
-        "lineupid": "577",
-        "mitai": "6840",
-        "title": "ミッション:インポッシブル/ローグ・ネイション"
-      }
-    },
     {
       "title": "ミッション:インポッシブル/フォールアウト",
       "broadcastDate": "2025.5.30",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/794f233cc4b3bc9d609ab6f5f281db0eb291d3a1.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250530",
       "lineupId": "578",
-      "mitaiCount": "4632",
+      "mitaiCount": "9082",
       "raw": {
         "href": "/lineup/20250530",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/794f233cc4b3bc9d609ab6f5f281db0eb291d3a1.jpg",
         "date": "2025.5.30放送",
         "lineupid": "578",
-        "mitai": "4632",
+        "mitai": "9082",
         "title": "ミッション:インポッシブル/フォールアウト"
       }
     },
@@ -39,14 +23,46 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/1f46c44b0d71e2a1ed1b8cf5f5f694b00041d675.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250606",
       "lineupId": "579",
-      "mitaiCount": "15632",
+      "mitaiCount": "23540",
       "raw": {
         "href": "/lineup/20250606",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/1f46c44b0d71e2a1ed1b8cf5f5f694b00041d675.jpg",
         "date": "2025.6.6放送",
         "lineupid": "579",
-        "mitai": "15632",
+        "mitai": "23540",
         "title": "リロ＆スティッチ"
+      }
+    },
+    {
+      "title": "万博会場でタイムスリップ！日本人が1番踊りたい神曲ベスト30〜時代を作った大ヒットダンス曲〜",
+      "broadcastDate": "2025.6.13",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/84a3deca079bd34cc67e337d8bd9631a0aafe294.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250613",
+      "lineupId": "581",
+      "mitaiCount": "776",
+      "raw": {
+        "href": "/lineup/20250613",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/84a3deca079bd34cc67e337d8bd9631a0aafe294.jpg",
+        "date": "2025.6.13放送",
+        "lineupid": "581",
+        "mitai": "776",
+        "title": "万博会場でタイムスリップ！日本人が1番踊りたい神曲ベスト30〜時代を作った大ヒットダンス曲〜"
+      }
+    },
+    {
+      "title": "ミッション：インポッシブル/デッドレコニング",
+      "broadcastDate": "2025.6.20",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2fcab069e680c2cf565c4e03f8e0e81a1a0d7978.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250620",
+      "lineupId": "580",
+      "mitaiCount": "1414",
+      "raw": {
+        "href": "/lineup/20250620",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2fcab069e680c2cf565c4e03f8e0e81a1a0d7978.jpg",
+        "date": "2025.6.20放送",
+        "lineupid": "580",
+        "mitai": "1414",
+        "title": "ミッション：インポッシブル/デッドレコニング"
       }
     }
   ]
