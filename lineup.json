@@ -1,51 +1,19 @@
 {
-  "createdAt": "2025-05-30T14:11:27.286Z",
+  "createdAt": "2025-06-06T14:11:15.168Z",
   "movies": [
-    {
-      "title": "ミッション:インポッシブル/フォールアウト",
-      "broadcastDate": "2025.5.30",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/794f233cc4b3bc9d609ab6f5f281db0eb291d3a1.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250530",
-      "lineupId": "578",
-      "mitaiCount": "9082",
-      "raw": {
-        "href": "/lineup/20250530",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/794f233cc4b3bc9d609ab6f5f281db0eb291d3a1.jpg",
-        "date": "2025.5.30放送",
-        "lineupid": "578",
-        "mitai": "9082",
-        "title": "ミッション:インポッシブル/フォールアウト"
-      }
-    },
-    {
-      "title": "リロ＆スティッチ",
-      "broadcastDate": "2025.6.6",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/1f46c44b0d71e2a1ed1b8cf5f5f694b00041d675.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250606",
-      "lineupId": "579",
-      "mitaiCount": "23540",
-      "raw": {
-        "href": "/lineup/20250606",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/1f46c44b0d71e2a1ed1b8cf5f5f694b00041d675.jpg",
-        "date": "2025.6.6放送",
-        "lineupid": "579",
-        "mitai": "23540",
-        "title": "リロ＆スティッチ"
-      }
-    },
     {
       "title": "万博会場でタイムスリップ！日本人が1番踊りたい神曲ベスト30〜時代を作った大ヒットダンス曲〜",
       "broadcastDate": "2025.6.13",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/84a3deca079bd34cc67e337d8bd9631a0aafe294.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250613",
       "lineupId": "581",
-      "mitaiCount": "776",
+      "mitaiCount": "2038",
       "raw": {
         "href": "/lineup/20250613",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/84a3deca079bd34cc67e337d8bd9631a0aafe294.jpg",
         "date": "2025.6.13放送",
         "lineupid": "581",
-        "mitai": "776",
+        "mitai": "2038",
         "title": "万博会場でタイムスリップ！日本人が1番踊りたい神曲ベスト30〜時代を作った大ヒットダンス曲〜"
       }
     },
@@ -55,14 +23,30 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2fcab069e680c2cf565c4e03f8e0e81a1a0d7978.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250620",
       "lineupId": "580",
-      "mitaiCount": "1414",
+      "mitaiCount": "4794",
       "raw": {
         "href": "/lineup/20250620",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2fcab069e680c2cf565c4e03f8e0e81a1a0d7978.jpg",
         "date": "2025.6.20放送",
         "lineupid": "580",
-        "mitai": "1414",
+        "mitai": "4794",
         "title": "ミッション：インポッシブル/デッドレコニング"
+      }
+    },
+    {
+      "title": "ルパン三世　カリオストロの城",
+      "broadcastDate": "2025.6.27",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/53c1db4965c2c994513f7207537181d5e6ef8faa.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250627",
+      "lineupId": "582",
+      "mitaiCount": "2787",
+      "raw": {
+        "href": "/lineup/20250627",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/53c1db4965c2c994513f7207537181d5e6ef8faa.jpg",
+        "date": "2025.6.27放送",
+        "lineupid": "582",
+        "mitai": "2787",
+        "title": "ルパン三世　カリオストロの城"
       }
     }
   ]
