@@ -1,5 +1,5 @@
 {
-  "createdAt": "2025-06-13T14:11:14.489Z",
+  "createdAt": "2025-06-20T14:10:56.950Z",
   "movies": [
     {
       "title": "ミッション：インポッシブル/デッドレコニング",
@@ -7,13 +7,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2fcab069e680c2cf565c4e03f8e0e81a1a0d7978.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250620",
       "lineupId": "580",
-      "mitaiCount": "9130",
+      "mitaiCount": "13548",
       "raw": {
         "href": "/lineup/20250620",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2fcab069e680c2cf565c4e03f8e0e81a1a0d7978.jpg",
         "date": "2025.6.20放送",
         "lineupid": "580",
-        "mitai": "9130",
+        "mitai": "13548",
         "title": "ミッション：インポッシブル/デッドレコニング"
       }
     },
@@ -23,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/53c1db4965c2c994513f7207537181d5e6ef8faa.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250627",
       "lineupId": "582",
-      "mitaiCount": "9945",
+      "mitaiCount": "15521",
       "raw": {
         "href": "/lineup/20250627",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/53c1db4965c2c994513f7207537181d5e6ef8faa.jpg",
         "date": "2025.6.27放送",
         "lineupid": "582",
-        "mitai": "9945",
+        "mitai": "15521",
         "title": "ルパン三世　カリオストロの城"
       }
     },
@@ -39,14 +39,30 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/797dbfe6bc784c0da6836047c22264d062a7736c.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250704",
       "lineupId": "583",
-      "mitaiCount": "2090",
+      "mitaiCount": "4290",
       "raw": {
         "href": "/lineup/20250704",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/797dbfe6bc784c0da6836047c22264d062a7736c.jpg",
         "date": "2025.7.4放送",
         "lineupid": "583",
-        "mitai": "2090",
+        "mitai": "4290",
         "title": "帰ってきたあぶない刑事"
+      }
+    },
+    {
+      "title": "キングダム 大将軍の帰還",
+      "broadcastDate": "2025.7.11",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/14580b7dd18d080262d628e81e5e3d675496a254.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250711",
+      "lineupId": "584",
+      "mitaiCount": "3426",
+      "raw": {
+        "href": "/lineup/20250711",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/14580b7dd18d080262d628e81e5e3d675496a254.jpg",
+        "date": "2025.7.11放送",
+        "lineupid": "584",
+        "mitai": "3426",
+        "title": "キングダム 大将軍の帰還"
       }
     }
   ]
