@@ -1,35 +1,19 @@
 {
-  "createdAt": "2025-06-27T14:11:00.470Z",
+  "createdAt": "2025-07-04T14:11:00.087Z",
   "movies": [
-    {
-      "title": "帰ってきたあぶない刑事",
-      "broadcastDate": "2025.7.4",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/797dbfe6bc784c0da6836047c22264d062a7736c.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250704",
-      "lineupId": "583",
-      "mitaiCount": "6581",
-      "raw": {
-        "href": "/lineup/20250704",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/797dbfe6bc784c0da6836047c22264d062a7736c.jpg",
-        "date": "2025.7.4放送",
-        "lineupid": "583",
-        "mitai": "6581",
-        "title": "帰ってきたあぶない刑事"
-      }
-    },
     {
       "title": "キングダム 大将軍の帰還",
       "broadcastDate": "2025.7.11",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/14580b7dd18d080262d628e81e5e3d675496a254.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250711",
       "lineupId": "584",
-      "mitaiCount": "9510",
+      "mitaiCount": "15026",
       "raw": {
         "href": "/lineup/20250711",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/14580b7dd18d080262d628e81e5e3d675496a254.jpg",
         "date": "2025.7.11放送",
         "lineupid": "584",
-        "mitai": "9510",
+        "mitai": "15026",
         "title": "キングダム 大将軍の帰還"
       }
     },
@@ -39,14 +23,30 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/877407668a7d02fd2fed8042b0da149a1eebfbbc.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250718",
       "lineupId": "585",
-      "mitaiCount": "1759",
+      "mitaiCount": "3995",
       "raw": {
         "href": "/lineup/20250718",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/877407668a7d02fd2fed8042b0da149a1eebfbbc.jpg",
         "date": "2025.7.18放送",
         "lineupid": "585",
-        "mitai": "1759",
+        "mitai": "3995",
         "title": "侍タイムスリッパー"
+      }
+    },
+    {
+      "title": "ジュラシック・パーク",
+      "broadcastDate": "2025.7.25",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/fc8869d1676e84c1f5897d674fdfd6c02dfede03.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250725",
+      "lineupId": "586",
+      "mitaiCount": "2045",
+      "raw": {
+        "href": "/lineup/20250725",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/fc8869d1676e84c1f5897d674fdfd6c02dfede03.jpg",
+        "date": "2025.7.25放送",
+        "lineupid": "586",
+        "mitai": "2045",
+        "title": "ジュラシック・パーク"
       }
     }
   ]
