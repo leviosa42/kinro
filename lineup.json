@@ -1,35 +1,19 @@
 {
-  "createdAt": "2025-07-04T14:11:00.087Z",
+  "createdAt": "2025-07-11T14:11:57.409Z",
   "movies": [
-    {
-      "title": "キングダム 大将軍の帰還",
-      "broadcastDate": "2025.7.11",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/14580b7dd18d080262d628e81e5e3d675496a254.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250711",
-      "lineupId": "584",
-      "mitaiCount": "15026",
-      "raw": {
-        "href": "/lineup/20250711",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/14580b7dd18d080262d628e81e5e3d675496a254.jpg",
-        "date": "2025.7.11放送",
-        "lineupid": "584",
-        "mitai": "15026",
-        "title": "キングダム 大将軍の帰還"
-      }
-    },
     {
       "title": "侍タイムスリッパー",
       "broadcastDate": "2025.7.18",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/877407668a7d02fd2fed8042b0da149a1eebfbbc.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250718",
       "lineupId": "585",
-      "mitaiCount": "3995",
+      "mitaiCount": "6392",
       "raw": {
         "href": "/lineup/20250718",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/877407668a7d02fd2fed8042b0da149a1eebfbbc.jpg",
         "date": "2025.7.18放送",
         "lineupid": "585",
-        "mitai": "3995",
+        "mitai": "6392",
         "title": "侍タイムスリッパー"
       }
     },
@@ -39,14 +23,30 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/fc8869d1676e84c1f5897d674fdfd6c02dfede03.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250725",
       "lineupId": "586",
-      "mitaiCount": "2045",
+      "mitaiCount": "4913",
       "raw": {
         "href": "/lineup/20250725",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/fc8869d1676e84c1f5897d674fdfd6c02dfede03.jpg",
         "date": "2025.7.25放送",
         "lineupid": "586",
-        "mitai": "2045",
+        "mitai": "4913",
         "title": "ジュラシック・パーク"
+      }
+    },
+    {
+      "title": "サマーウォーズ",
+      "broadcastDate": "2025.8.1",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/63591cc7f86ec8199a695b526fa3e238accd357f.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250801",
+      "lineupId": "587",
+      "mitaiCount": "5147",
+      "raw": {
+        "href": "/lineup/20250801",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/63591cc7f86ec8199a695b526fa3e238accd357f.jpg",
+        "date": "2025.8.1放送",
+        "lineupid": "587",
+        "mitai": "5147",
+        "title": "サマーウォーズ"
       }
     }
   ]
