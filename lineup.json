@@ -1,5 +1,5 @@
 {
-  "createdAt": "2025-07-11T14:11:57.409Z",
+  "createdAt": "2025-07-18T14:12:28.466Z",
   "movies": [
     {
       "title": "侍タイムスリッパー",
@@ -7,13 +7,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/877407668a7d02fd2fed8042b0da149a1eebfbbc.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250718",
       "lineupId": "585",
-      "mitaiCount": "6392",
+      "mitaiCount": "11369",
       "raw": {
         "href": "/lineup/20250718",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/877407668a7d02fd2fed8042b0da149a1eebfbbc.jpg",
         "date": "2025.7.18放送",
         "lineupid": "585",
-        "mitai": "6392",
+        "mitai": "11369",
         "title": "侍タイムスリッパー"
       }
     },
@@ -23,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/fc8869d1676e84c1f5897d674fdfd6c02dfede03.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250725",
       "lineupId": "586",
-      "mitaiCount": "4913",
+      "mitaiCount": "8333",
       "raw": {
         "href": "/lineup/20250725",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/fc8869d1676e84c1f5897d674fdfd6c02dfede03.jpg",
         "date": "2025.7.25放送",
         "lineupid": "586",
-        "mitai": "4913",
+        "mitai": "8333",
         "title": "ジュラシック・パーク"
       }
     },
@@ -39,14 +39,30 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/63591cc7f86ec8199a695b526fa3e238accd357f.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250801",
       "lineupId": "587",
-      "mitaiCount": "5147",
+      "mitaiCount": "15224",
       "raw": {
         "href": "/lineup/20250801",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/63591cc7f86ec8199a695b526fa3e238accd357f.jpg",
         "date": "2025.8.1放送",
         "lineupid": "587",
-        "mitai": "5147",
+        "mitai": "15224",
         "title": "サマーウォーズ"
+      }
+    },
+    {
+      "title": "あの花が咲く丘で、君とまた出会えたら。",
+      "broadcastDate": "2025.8.8",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/dce9b7720963300b73bd24e2ba246c55f09b4fa5.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250808",
+      "lineupId": "588",
+      "mitaiCount": "2995",
+      "raw": {
+        "href": "/lineup/20250808",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/dce9b7720963300b73bd24e2ba246c55f09b4fa5.jpg",
+        "date": "2025.8.8放送",
+        "lineupid": "588",
+        "mitai": "2995",
+        "title": "あの花が咲く丘で、君とまた出会えたら。"
       }
     }
   ]
