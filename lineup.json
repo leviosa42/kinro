@@ -1,5 +1,5 @@
 {
-  "createdAt": "2025-08-01T14:14:33.302Z",
+  "createdAt": "2025-08-08T14:14:33.592Z",
   "movies": [
     {
       "title": "あの花が咲く丘で、君とまた出会えたら。",
@@ -7,13 +7,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/dce9b7720963300b73bd24e2ba246c55f09b4fa5.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250808",
       "lineupId": "588",
-      "mitaiCount": "18456",
+      "mitaiCount": "31093",
       "raw": {
         "href": "/lineup/20250808",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/dce9b7720963300b73bd24e2ba246c55f09b4fa5.jpg",
         "date": "2025.8.8放送",
         "lineupid": "588",
-        "mitai": "18456",
+        "mitai": "31093",
         "title": "あの花が咲く丘で、君とまた出会えたら。"
       }
     },
@@ -23,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/7eae5b67066dc60360fe48f2a462f7371afd4e6a.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250815",
       "lineupId": "589",
-      "mitaiCount": "11110",
+      "mitaiCount": "23827",
       "raw": {
         "href": "/lineup/20250815",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/7eae5b67066dc60360fe48f2a462f7371afd4e6a.jpg",
         "date": "2025.8.15放送",
         "lineupid": "589",
-        "mitai": "11110",
+        "mitai": "23827",
         "title": "火垂るの墓"
       }
     },
@@ -39,13 +39,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/895938c664d25140ee4003d62da4e353f792931f.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250822",
       "lineupId": "590",
-      "mitaiCount": "8051",
+      "mitaiCount": "15448",
       "raw": {
         "href": "/lineup/20250822",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/895938c664d25140ee4003d62da4e353f792931f.jpg",
         "date": "2025.8.22放送",
         "lineupid": "590",
-        "mitai": "8051",
+        "mitai": "15448",
         "title": "崖の上のポニョ"
       }
     },
@@ -55,14 +55,30 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/94d53178f67728ee6339140cf3232681e616e343.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250829",
       "lineupId": "591",
-      "mitaiCount": "9845",
+      "mitaiCount": "18271",
       "raw": {
         "href": "/lineup/20250829",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/94d53178f67728ee6339140cf3232681e616e343.jpg",
         "date": "2025.8.29放送",
         "lineupid": "591",
-        "mitai": "9845",
+        "mitai": "18271",
         "title": "もののけ姫"
+      }
+    },
+    {
+      "title": "ペット2",
+      "broadcastDate": "2025.9.5",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a16b1c4671218560dea7795a3d167e2b3bf969da.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250905",
+      "lineupId": "592",
+      "mitaiCount": "1922",
+      "raw": {
+        "href": "/lineup/20250905",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a16b1c4671218560dea7795a3d167e2b3bf969da.jpg",
+        "date": "2025.9.5放送",
+        "lineupid": "592",
+        "mitai": "1922",
+        "title": "ペット2"
       }
     }
   ]
