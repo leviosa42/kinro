@@ -1,35 +1,19 @@
 {
-  "createdAt": "2025-08-15T14:11:24.365Z",
+  "createdAt": "2025-08-22T14:10:40.738Z",
   "movies": [
-    {
-      "title": "崖の上のポニョ",
-      "broadcastDate": "2025.8.22",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/895938c664d25140ee4003d62da4e353f792931f.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250822",
-      "lineupId": "590",
-      "mitaiCount": "21594",
-      "raw": {
-        "href": "/lineup/20250822",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/895938c664d25140ee4003d62da4e353f792931f.jpg",
-        "date": "2025.8.22放送",
-        "lineupid": "590",
-        "mitai": "21594",
-        "title": "崖の上のポニョ"
-      }
-    },
     {
       "title": "もののけ姫",
       "broadcastDate": "2025.8.29",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/94d53178f67728ee6339140cf3232681e616e343.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250829",
       "lineupId": "591",
-      "mitaiCount": "24650",
+      "mitaiCount": "33649",
       "raw": {
         "href": "/lineup/20250829",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/94d53178f67728ee6339140cf3232681e616e343.jpg",
         "date": "2025.8.29放送",
         "lineupid": "591",
-        "mitai": "24650",
+        "mitai": "33649",
         "title": "もののけ姫"
       }
     },
@@ -39,14 +23,46 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a16b1c4671218560dea7795a3d167e2b3bf969da.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250905",
       "lineupId": "592",
-      "mitaiCount": "4605",
+      "mitaiCount": "7667",
       "raw": {
         "href": "/lineup/20250905",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a16b1c4671218560dea7795a3d167e2b3bf969da.jpg",
         "date": "2025.9.5放送",
         "lineupid": "592",
-        "mitai": "4605",
+        "mitai": "7667",
         "title": "ペット2"
+      }
+    },
+    {
+      "title": "トイ・ストーリー 謎の恐竜ワールド＋眠れる森の美女",
+      "broadcastDate": "2025.9.12",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/aad546ae6544eacbe6392d83641106419b2bd15f.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250912",
+      "lineupId": "593",
+      "mitaiCount": "2840",
+      "raw": {
+        "href": "/lineup/20250912",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/aad546ae6544eacbe6392d83641106419b2bd15f.jpg",
+        "date": "2025.9.12放送",
+        "lineupid": "593",
+        "mitai": "2840",
+        "title": "トイ・ストーリー 謎の恐竜ワールド＋眠れる森の美女"
+      }
+    },
+    {
+      "title": "マレフィセント",
+      "broadcastDate": "2025.9.19",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/7b79e7958159cb86b7546588f9fd1e6e435168d1.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250919",
+      "lineupId": "594",
+      "mitaiCount": "2338",
+      "raw": {
+        "href": "/lineup/20250919",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/7b79e7958159cb86b7546588f9fd1e6e435168d1.jpg",
+        "date": "2025.9.19放送",
+        "lineupid": "594",
+        "mitai": "2338",
+        "title": "マレフィセント"
       }
     }
   ]
