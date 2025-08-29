@@ -1,5 +1,5 @@
 {
-  "createdAt": "2025-08-22T14:10:40.738Z",
+  "createdAt": "2025-08-29T14:10:28.270Z",
   "movies": [
     {
       "title": "もののけ姫",
@@ -7,13 +7,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/94d53178f67728ee6339140cf3232681e616e343.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250829",
       "lineupId": "591",
-      "mitaiCount": "33649",
+      "mitaiCount": "46005",
       "raw": {
         "href": "/lineup/20250829",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/94d53178f67728ee6339140cf3232681e616e343.jpg",
         "date": "2025.8.29放送",
         "lineupid": "591",
-        "mitai": "33649",
+        "mitai": "46005",
         "title": "もののけ姫"
       }
     },
@@ -23,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a16b1c4671218560dea7795a3d167e2b3bf969da.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250905",
       "lineupId": "592",
-      "mitaiCount": "7667",
+      "mitaiCount": "11003",
       "raw": {
         "href": "/lineup/20250905",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a16b1c4671218560dea7795a3d167e2b3bf969da.jpg",
         "date": "2025.9.5放送",
         "lineupid": "592",
-        "mitai": "7667",
+        "mitai": "11003",
         "title": "ペット2"
       }
     },
@@ -39,13 +39,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/aad546ae6544eacbe6392d83641106419b2bd15f.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250912",
       "lineupId": "593",
-      "mitaiCount": "2840",
+      "mitaiCount": "7480",
       "raw": {
         "href": "/lineup/20250912",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/aad546ae6544eacbe6392d83641106419b2bd15f.jpg",
         "date": "2025.9.12放送",
         "lineupid": "593",
-        "mitai": "2840",
+        "mitai": "7480",
         "title": "トイ・ストーリー 謎の恐竜ワールド＋眠れる森の美女"
       }
     },
@@ -55,13 +55,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/7b79e7958159cb86b7546588f9fd1e6e435168d1.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250919",
       "lineupId": "594",
-      "mitaiCount": "2338",
+      "mitaiCount": "5780",
       "raw": {
         "href": "/lineup/20250919",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/7b79e7958159cb86b7546588f9fd1e6e435168d1.jpg",
         "date": "2025.9.19放送",
         "lineupid": "594",
-        "mitai": "2338",
+        "mitai": "5780",
         "title": "マレフィセント"
       }
     }
