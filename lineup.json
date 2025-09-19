@@ -1,68 +1,68 @@
 {
-  "createdAt": "2025-08-29T14:10:28.270Z",
+  "createdAt": "2025-09-19T14:10:28.026Z",
   "movies": [
     {
-      "title": "もののけ姫",
-      "broadcastDate": "2025.8.29",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/94d53178f67728ee6339140cf3232681e616e343.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250829",
-      "lineupId": "591",
-      "mitaiCount": "46005",
+      "title": "行列のできる相談所 復活スペシャル",
+      "broadcastDate": "2025.9.26",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/131a955de4fa3491d952ba36ee6f5d54a9d1a4bf.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250926",
+      "lineupId": "596",
+      "mitaiCount": "904",
       "raw": {
-        "href": "/lineup/20250829",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/94d53178f67728ee6339140cf3232681e616e343.jpg",
-        "date": "2025.8.29放送",
-        "lineupid": "591",
-        "mitai": "46005",
-        "title": "もののけ姫"
+        "href": "/lineup/20250926",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/131a955de4fa3491d952ba36ee6f5d54a9d1a4bf.jpg",
+        "date": "2025.9.26放送",
+        "lineupid": "596",
+        "mitai": "904",
+        "title": "行列のできる相談所 復活スペシャル"
       }
     },
     {
-      "title": "ペット2",
-      "broadcastDate": "2025.9.5",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a16b1c4671218560dea7795a3d167e2b3bf969da.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250905",
-      "lineupId": "592",
-      "mitaiCount": "11003",
+      "title": "金曜ロードショー40周年特別番組 『国民が選んだ忘れられない名シーン』",
+      "broadcastDate": "2025.10.3",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e36de8658d4acb1b8f48f4e298d0d469e4fd7237.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251003",
+      "lineupId": "595",
+      "mitaiCount": "8326",
       "raw": {
-        "href": "/lineup/20250905",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a16b1c4671218560dea7795a3d167e2b3bf969da.jpg",
-        "date": "2025.9.5放送",
-        "lineupid": "592",
-        "mitai": "11003",
-        "title": "ペット2"
+        "href": "/lineup/20251003",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e36de8658d4acb1b8f48f4e298d0d469e4fd7237.jpg",
+        "date": "2025.10.3放送",
+        "lineupid": "595",
+        "mitai": "8326",
+        "title": "金曜ロードショー40周年特別番組 『国民が選んだ忘れられない名シーン』"
       }
     },
     {
-      "title": "トイ・ストーリー 謎の恐竜ワールド＋眠れる森の美女",
-      "broadcastDate": "2025.9.12",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/aad546ae6544eacbe6392d83641106419b2bd15f.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250912",
-      "lineupId": "593",
-      "mitaiCount": "7480",
+      "title": "E.T.",
+      "broadcastDate": "2025.10.10",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/74327875d969aae32e30692d462435f88b0c84bc.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251010",
+      "lineupId": "597",
+      "mitaiCount": "3916",
       "raw": {
-        "href": "/lineup/20250912",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/aad546ae6544eacbe6392d83641106419b2bd15f.jpg",
-        "date": "2025.9.12放送",
-        "lineupid": "593",
-        "mitai": "7480",
-        "title": "トイ・ストーリー 謎の恐竜ワールド＋眠れる森の美女"
+        "href": "/lineup/20251010",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/74327875d969aae32e30692d462435f88b0c84bc.jpg",
+        "date": "2025.10.10放送",
+        "lineupid": "597",
+        "mitai": "3916",
+        "title": "E.T."
       }
     },
     {
-      "title": "マレフィセント",
-      "broadcastDate": "2025.9.19",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/7b79e7958159cb86b7546588f9fd1e6e435168d1.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250919",
-      "lineupId": "594",
-      "mitaiCount": "5780",
+      "title": "インディ・ジョーンズと運命のダイヤル",
+      "broadcastDate": "2025.10.17",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a9adee17ef07edc8c244a15303fd8d65c316946d.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251017",
+      "lineupId": "598",
+      "mitaiCount": "1177",
       "raw": {
-        "href": "/lineup/20250919",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/7b79e7958159cb86b7546588f9fd1e6e435168d1.jpg",
-        "date": "2025.9.19放送",
-        "lineupid": "594",
-        "mitai": "5780",
-        "title": "マレフィセント"
+        "href": "/lineup/20251017",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a9adee17ef07edc8c244a15303fd8d65c316946d.jpg",
+        "date": "2025.10.17放送",
+        "lineupid": "598",
+        "mitai": "1177",
+        "title": "インディ・ジョーンズと運命のダイヤル"
       }
     }
   ]
