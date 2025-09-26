@@ -1,36 +1,20 @@
 {
-  "createdAt": "2025-09-19T14:10:28.026Z",
+  "createdAt": "2025-09-26T14:09:46.728Z",
   "movies": [
     {
-      "title": "行列のできる相談所 復活スペシャル",
-      "broadcastDate": "2025.9.26",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/131a955de4fa3491d952ba36ee6f5d54a9d1a4bf.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20250926",
-      "lineupId": "596",
-      "mitaiCount": "904",
-      "raw": {
-        "href": "/lineup/20250926",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/131a955de4fa3491d952ba36ee6f5d54a9d1a4bf.jpg",
-        "date": "2025.9.26放送",
-        "lineupid": "596",
-        "mitai": "904",
-        "title": "行列のできる相談所 復活スペシャル"
-      }
-    },
-    {
-      "title": "金曜ロードショー40周年特別番組 『国民が選んだ忘れられない名シーン』",
+      "title": "金曜ロードショー40周年特別番組～視聴者が選んだ忘れられない名シ－ン～",
       "broadcastDate": "2025.10.3",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e36de8658d4acb1b8f48f4e298d0d469e4fd7237.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251003",
       "lineupId": "595",
-      "mitaiCount": "8326",
+      "mitaiCount": "11284",
       "raw": {
         "href": "/lineup/20251003",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e36de8658d4acb1b8f48f4e298d0d469e4fd7237.jpg",
         "date": "2025.10.3放送",
         "lineupid": "595",
-        "mitai": "8326",
-        "title": "金曜ロードショー40周年特別番組 『国民が選んだ忘れられない名シーン』"
+        "mitai": "11284",
+        "title": "金曜ロードショー40周年特別番組～視聴者が選んだ忘れられない名シ－ン～"
       }
     },
     {
@@ -39,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/74327875d969aae32e30692d462435f88b0c84bc.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251010",
       "lineupId": "597",
-      "mitaiCount": "3916",
+      "mitaiCount": "6656",
       "raw": {
         "href": "/lineup/20251010",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/74327875d969aae32e30692d462435f88b0c84bc.jpg",
         "date": "2025.10.10放送",
         "lineupid": "597",
-        "mitai": "3916",
+        "mitai": "6656",
         "title": "E.T."
       }
     },
@@ -55,13 +39,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a9adee17ef07edc8c244a15303fd8d65c316946d.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251017",
       "lineupId": "598",
-      "mitaiCount": "1177",
+      "mitaiCount": "3029",
       "raw": {
         "href": "/lineup/20251017",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a9adee17ef07edc8c244a15303fd8d65c316946d.jpg",
         "date": "2025.10.17放送",
         "lineupid": "598",
-        "mitai": "1177",
+        "mitai": "3029",
         "title": "インディ・ジョーンズと運命のダイヤル"
       }
     }
