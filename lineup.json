@@ -1,35 +1,19 @@
 {
-  "createdAt": "2025-09-26T14:09:46.728Z",
+  "createdAt": "2025-10-03T14:10:03.465Z",
   "movies": [
-    {
-      "title": "金曜ロードショー40周年特別番組～視聴者が選んだ忘れられない名シ－ン～",
-      "broadcastDate": "2025.10.3",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e36de8658d4acb1b8f48f4e298d0d469e4fd7237.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251003",
-      "lineupId": "595",
-      "mitaiCount": "11284",
-      "raw": {
-        "href": "/lineup/20251003",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e36de8658d4acb1b8f48f4e298d0d469e4fd7237.jpg",
-        "date": "2025.10.3放送",
-        "lineupid": "595",
-        "mitai": "11284",
-        "title": "金曜ロードショー40周年特別番組～視聴者が選んだ忘れられない名シ－ン～"
-      }
-    },
     {
       "title": "E.T.",
       "broadcastDate": "2025.10.10",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/74327875d969aae32e30692d462435f88b0c84bc.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251010",
       "lineupId": "597",
-      "mitaiCount": "6656",
+      "mitaiCount": "10262",
       "raw": {
         "href": "/lineup/20251010",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/74327875d969aae32e30692d462435f88b0c84bc.jpg",
         "date": "2025.10.10放送",
         "lineupid": "597",
-        "mitai": "6656",
+        "mitai": "10262",
         "title": "E.T."
       }
     },
@@ -39,14 +23,46 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a9adee17ef07edc8c244a15303fd8d65c316946d.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251017",
       "lineupId": "598",
-      "mitaiCount": "3029",
+      "mitaiCount": "5029",
       "raw": {
         "href": "/lineup/20251017",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a9adee17ef07edc8c244a15303fd8d65c316946d.jpg",
         "date": "2025.10.17放送",
         "lineupid": "598",
-        "mitai": "3029",
+        "mitai": "5029",
         "title": "インディ・ジョーンズと運命のダイヤル"
+      }
+    },
+    {
+      "title": "ホーンテッドマンション",
+      "broadcastDate": "2025.10.24",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0fb8b7e61945f6443ac03e7ffb66ad3f5da6bb44.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251024",
+      "lineupId": "599",
+      "mitaiCount": "2013",
+      "raw": {
+        "href": "/lineup/20251024",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0fb8b7e61945f6443ac03e7ffb66ad3f5da6bb44.jpg",
+        "date": "2025.10.24放送",
+        "lineupid": "599",
+        "mitai": "2013",
+        "title": "ホーンテッドマンション"
+      }
+    },
+    {
+      "title": "トイ・ストーリー・オブ・テラー！&#43;ナイトメアー・ビフォア・クリスマス",
+      "broadcastDate": "2025.10.31",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9b712442116ce147f94dff490e5873055e9cdaac.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251031",
+      "lineupId": "600",
+      "mitaiCount": "3659",
+      "raw": {
+        "href": "/lineup/20251031",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9b712442116ce147f94dff490e5873055e9cdaac.jpg",
+        "date": "2025.10.31放送",
+        "lineupid": "600",
+        "mitai": "3659",
+        "title": "トイ・ストーリー・オブ・テラー！&#43;ナイトメアー・ビフォア・クリスマス"
       }
     }
   ]
