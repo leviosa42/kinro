@@ -1,51 +1,19 @@
 {
-  "createdAt": "2025-10-24T14:11:41.104Z",
+  "createdAt": "2025-10-31T14:11:39.362Z",
   "movies": [
-    {
-      "title": "ホーンテッドマンション",
-      "broadcastDate": "2025.10.24",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0fb8b7e61945f6443ac03e7ffb66ad3f5da6bb44.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251024",
-      "lineupId": "599",
-      "mitaiCount": "14887",
-      "raw": {
-        "href": "/lineup/20251024",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0fb8b7e61945f6443ac03e7ffb66ad3f5da6bb44.jpg",
-        "date": "2025.10.24放送",
-        "lineupid": "599",
-        "mitai": "14887",
-        "title": "ホーンテッドマンション"
-      }
-    },
-    {
-      "title": "トイ・ストーリー・オブ・テラー！&#43;ナイトメアー・ビフォア・クリスマス",
-      "broadcastDate": "2025.10.31",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9b712442116ce147f94dff490e5873055e9cdaac.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251031",
-      "lineupId": "600",
-      "mitaiCount": "21911",
-      "raw": {
-        "href": "/lineup/20251031",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9b712442116ce147f94dff490e5873055e9cdaac.jpg",
-        "date": "2025.10.31放送",
-        "lineupid": "600",
-        "mitai": "21911",
-        "title": "トイ・ストーリー・オブ・テラー！&#43;ナイトメアー・ビフォア・クリスマス"
-      }
-    },
     {
       "title": "おおかみこどもの雨と雪",
       "broadcastDate": "2025.11.7",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/8636b5f5cc96b71a30b2aafbcf582e038eaeb228.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251107",
       "lineupId": "603",
-      "mitaiCount": "8656",
+      "mitaiCount": "14909",
       "raw": {
         "href": "/lineup/20251107",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/8636b5f5cc96b71a30b2aafbcf582e038eaeb228.jpg",
         "date": "2025.11.7放送",
         "lineupid": "603",
-        "mitai": "8656",
+        "mitai": "14909",
         "title": "おおかみこどもの雨と雪"
       }
     },
@@ -55,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/15aa82b0e40b928c647c181a29be134b755dde7b.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251114",
       "lineupId": "604",
-      "mitaiCount": "4873",
+      "mitaiCount": "8098",
       "raw": {
         "href": "/lineup/20251114",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/15aa82b0e40b928c647c181a29be134b755dde7b.jpg",
         "date": "2025.11.14放送",
         "lineupid": "604",
-        "mitai": "4873",
+        "mitai": "8098",
         "title": "バケモノの子"
       }
     },
@@ -71,13 +39,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/51a91aeae3ea0421c62f9dc58fb9f6dd920ba726.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251121",
       "lineupId": "602",
-      "mitaiCount": "3509",
+      "mitaiCount": "5740",
       "raw": {
         "href": "/lineup/20251121",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/51a91aeae3ea0421c62f9dc58fb9f6dd920ba726.jpg",
         "date": "2025.11.21放送",
         "lineupid": "602",
-        "mitai": "3509",
+        "mitai": "5740",
         "title": "竜とそばかすの姫"
       }
     },
@@ -87,13 +55,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e90a1b5a7d8e1fd40a6e32819df279a5e35be991.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251128",
       "lineupId": "601",
-      "mitaiCount": "4069",
+      "mitaiCount": "6570",
       "raw": {
         "href": "/lineup/20251128",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e90a1b5a7d8e1fd40a6e32819df279a5e35be991.jpg",
         "date": "2025.11.28放送",
         "lineupid": "601",
-        "mitai": "4069",
+        "mitai": "6570",
         "title": "時をかける少女"
       }
     }
