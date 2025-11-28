@@ -1,51 +1,19 @@
 {
-  "createdAt": "2025-11-21T14:11:27.501Z",
+  "createdAt": "2025-11-28T14:11:22.675Z",
   "movies": [
-    {
-      "title": "竜とそばかすの姫",
-      "broadcastDate": "2025.11.21",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/51a91aeae3ea0421c62f9dc58fb9f6dd920ba726.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251121",
-      "lineupId": "602",
-      "mitaiCount": "19650",
-      "raw": {
-        "href": "/lineup/20251121",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/51a91aeae3ea0421c62f9dc58fb9f6dd920ba726.jpg",
-        "date": "2025.11.21放送",
-        "lineupid": "602",
-        "mitai": "19650",
-        "title": "竜とそばかすの姫"
-      }
-    },
-    {
-      "title": "時をかける少女",
-      "broadcastDate": "2025.11.28",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e90a1b5a7d8e1fd40a6e32819df279a5e35be991.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251128",
-      "lineupId": "601",
-      "mitaiCount": "18884",
-      "raw": {
-        "href": "/lineup/20251128",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e90a1b5a7d8e1fd40a6e32819df279a5e35be991.jpg",
-        "date": "2025.11.28放送",
-        "lineupid": "601",
-        "mitai": "18884",
-        "title": "時をかける少女"
-      }
-    },
     {
       "title": "ズートピア",
       "broadcastDate": "2025.12.5",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e03787d8abd111c10c84922d5bcbde59953f4d3b.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251205",
       "lineupId": "606",
-      "mitaiCount": "10676",
+      "mitaiCount": "19928",
       "raw": {
         "href": "/lineup/20251205",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e03787d8abd111c10c84922d5bcbde59953f4d3b.jpg",
         "date": "2025.12.5放送",
         "lineupid": "606",
-        "mitai": "10676",
+        "mitai": "19928",
         "title": "ズートピア"
       }
     },
@@ -55,14 +23,30 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/dd95466318fd4e4a1df386b0af1009d17db1ef5c.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251212",
       "lineupId": "605",
-      "mitaiCount": "5340",
+      "mitaiCount": "9183",
       "raw": {
         "href": "/lineup/20251212",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/dd95466318fd4e4a1df386b0af1009d17db1ef5c.jpg",
         "date": "2025.12.12放送",
         "lineupid": "605",
-        "mitai": "5340",
+        "mitai": "9183",
         "title": "ウィッシュ"
+      }
+    },
+    {
+      "title": "ホーム・アローン",
+      "broadcastDate": "2025.12.19",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/114fe10b66e1972772ab348a836e7b93ac2a64e9.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251219",
+      "lineupId": "607",
+      "mitaiCount": "2918",
+      "raw": {
+        "href": "/lineup/20251219",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/114fe10b66e1972772ab348a836e7b93ac2a64e9.jpg",
+        "date": "2025.12.19放送",
+        "lineupid": "607",
+        "mitai": "2918",
+        "title": "ホーム・アローン"
       }
     }
   ]
