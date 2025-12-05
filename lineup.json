@@ -1,35 +1,19 @@
 {
-  "createdAt": "2025-11-28T14:11:22.675Z",
+  "createdAt": "2025-12-05T14:12:11.176Z",
   "movies": [
-    {
-      "title": "ズートピア",
-      "broadcastDate": "2025.12.5",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e03787d8abd111c10c84922d5bcbde59953f4d3b.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251205",
-      "lineupId": "606",
-      "mitaiCount": "19928",
-      "raw": {
-        "href": "/lineup/20251205",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e03787d8abd111c10c84922d5bcbde59953f4d3b.jpg",
-        "date": "2025.12.5放送",
-        "lineupid": "606",
-        "mitai": "19928",
-        "title": "ズートピア"
-      }
-    },
     {
       "title": "ウィッシュ",
       "broadcastDate": "2025.12.12",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/dd95466318fd4e4a1df386b0af1009d17db1ef5c.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251212",
       "lineupId": "605",
-      "mitaiCount": "9183",
+      "mitaiCount": "14018",
       "raw": {
         "href": "/lineup/20251212",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/dd95466318fd4e4a1df386b0af1009d17db1ef5c.jpg",
         "date": "2025.12.12放送",
         "lineupid": "605",
-        "mitai": "9183",
+        "mitai": "14018",
         "title": "ウィッシュ"
       }
     },
@@ -39,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/114fe10b66e1972772ab348a836e7b93ac2a64e9.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251219",
       "lineupId": "607",
-      "mitaiCount": "2918",
+      "mitaiCount": "10450",
       "raw": {
         "href": "/lineup/20251219",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/114fe10b66e1972772ab348a836e7b93ac2a64e9.jpg",
         "date": "2025.12.19放送",
         "lineupid": "607",
-        "mitai": "2918",
+        "mitai": "10450",
         "title": "ホーム・アローン"
       }
     }
