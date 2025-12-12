@@ -1,36 +1,52 @@
 {
-  "createdAt": "2025-12-05T14:12:11.176Z",
+  "createdAt": "2025-12-12T14:12:18.821Z",
   "movies": [
-    {
-      "title": "ウィッシュ",
-      "broadcastDate": "2025.12.12",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/dd95466318fd4e4a1df386b0af1009d17db1ef5c.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251212",
-      "lineupId": "605",
-      "mitaiCount": "14018",
-      "raw": {
-        "href": "/lineup/20251212",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/dd95466318fd4e4a1df386b0af1009d17db1ef5c.jpg",
-        "date": "2025.12.12放送",
-        "lineupid": "605",
-        "mitai": "14018",
-        "title": "ウィッシュ"
-      }
-    },
     {
       "title": "ホーム・アローン",
       "broadcastDate": "2025.12.19",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/114fe10b66e1972772ab348a836e7b93ac2a64e9.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251219",
       "lineupId": "607",
-      "mitaiCount": "10450",
+      "mitaiCount": "19505",
       "raw": {
         "href": "/lineup/20251219",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/114fe10b66e1972772ab348a836e7b93ac2a64e9.jpg",
         "date": "2025.12.19放送",
         "lineupid": "607",
-        "mitai": "10450",
+        "mitai": "19505",
         "title": "ホーム・アローン"
+      }
+    },
+    {
+      "title": "千と千尋の神隠し",
+      "broadcastDate": "2026.1.2",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/c5daed659a71429c344b77702531f08ed050ffb8.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260102",
+      "lineupId": "609",
+      "mitaiCount": "4914",
+      "raw": {
+        "href": "/lineup/20260102",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/c5daed659a71429c344b77702531f08ed050ffb8.jpg",
+        "date": "2026.1.2放送",
+        "lineupid": "609",
+        "mitai": "4914",
+        "title": "千と千尋の神隠し"
+      }
+    },
+    {
+      "title": "かぐや姫の物語",
+      "broadcastDate": "2026.1.9",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a0d88719bd3c61ba232fd17914468fc557ae54f2.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260109",
+      "lineupId": "608",
+      "mitaiCount": "2509",
+      "raw": {
+        "href": "/lineup/20260109",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a0d88719bd3c61ba232fd17914468fc557ae54f2.jpg",
+        "date": "2026.1.9放送",
+        "lineupid": "608",
+        "mitai": "2509",
+        "title": "かぐや姫の物語"
       }
     }
   ]
