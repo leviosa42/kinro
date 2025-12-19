@@ -1,35 +1,19 @@
 {
-  "createdAt": "2025-12-12T14:12:18.821Z",
+  "createdAt": "2025-12-19T14:12:53.030Z",
   "movies": [
-    {
-      "title": "ホーム・アローン",
-      "broadcastDate": "2025.12.19",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/114fe10b66e1972772ab348a836e7b93ac2a64e9.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20251219",
-      "lineupId": "607",
-      "mitaiCount": "19505",
-      "raw": {
-        "href": "/lineup/20251219",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/114fe10b66e1972772ab348a836e7b93ac2a64e9.jpg",
-        "date": "2025.12.19放送",
-        "lineupid": "607",
-        "mitai": "19505",
-        "title": "ホーム・アローン"
-      }
-    },
     {
       "title": "千と千尋の神隠し",
       "broadcastDate": "2026.1.2",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/c5daed659a71429c344b77702531f08ed050ffb8.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260102",
       "lineupId": "609",
-      "mitaiCount": "4914",
+      "mitaiCount": "13925",
       "raw": {
         "href": "/lineup/20260102",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/c5daed659a71429c344b77702531f08ed050ffb8.jpg",
         "date": "2026.1.2放送",
         "lineupid": "609",
-        "mitai": "4914",
+        "mitai": "13925",
         "title": "千と千尋の神隠し"
       }
     },
@@ -39,14 +23,46 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a0d88719bd3c61ba232fd17914468fc557ae54f2.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260109",
       "lineupId": "608",
-      "mitaiCount": "2509",
+      "mitaiCount": "6497",
       "raw": {
         "href": "/lineup/20260109",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a0d88719bd3c61ba232fd17914468fc557ae54f2.jpg",
         "date": "2026.1.9放送",
         "lineupid": "608",
-        "mitai": "2509",
+        "mitai": "6497",
         "title": "かぐや姫の物語"
+      }
+    },
+    {
+      "title": "名探偵コナン　エピソード“ONE”小さくなった名探偵",
+      "broadcastDate": "2026.1.16",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3ba587d0fff91b72b3cba60d7b9bf9d41e7909ff.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260116",
+      "lineupId": "610",
+      "mitaiCount": "2225",
+      "raw": {
+        "href": "/lineup/20260116",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3ba587d0fff91b72b3cba60d7b9bf9d41e7909ff.jpg",
+        "date": "2026.1.16放送",
+        "lineupid": "610",
+        "mitai": "2225",
+        "title": "名探偵コナン　エピソード“ONE”小さくなった名探偵"
+      }
+    },
+    {
+      "title": "名探偵コナン　江戸川コナン失踪事件 ～史上最悪の二日間～",
+      "broadcastDate": "2026.1.23",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3a1194da3d016652495530bf8ce985fb3c939706.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260123",
+      "lineupId": "611",
+      "mitaiCount": "1688",
+      "raw": {
+        "href": "/lineup/20260123",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3a1194da3d016652495530bf8ce985fb3c939706.jpg",
+        "date": "2026.1.23放送",
+        "lineupid": "611",
+        "mitai": "1688",
+        "title": "名探偵コナン　江戸川コナン失踪事件 ～史上最悪の二日間～"
       }
     }
   ]
