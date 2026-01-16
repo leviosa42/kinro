@@ -1,51 +1,19 @@
 {
-  "createdAt": "2026-01-09T14:15:13.137Z",
+  "createdAt": "2026-01-16T14:15:13.004Z",
   "movies": [
-    {
-      "title": "かぐや姫の物語",
-      "broadcastDate": "2026.1.9",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a0d88719bd3c61ba232fd17914468fc557ae54f2.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260109",
-      "lineupId": "608",
-      "mitaiCount": "18582",
-      "raw": {
-        "href": "/lineup/20260109",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a0d88719bd3c61ba232fd17914468fc557ae54f2.jpg",
-        "date": "2026.1.9放送",
-        "lineupid": "608",
-        "mitai": "18582",
-        "title": "かぐや姫の物語"
-      }
-    },
-    {
-      "title": "名探偵コナン　エピソード“ONE”小さくなった名探偵",
-      "broadcastDate": "2026.1.16",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3ba587d0fff91b72b3cba60d7b9bf9d41e7909ff.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260116",
-      "lineupId": "610",
-      "mitaiCount": "11252",
-      "raw": {
-        "href": "/lineup/20260116",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3ba587d0fff91b72b3cba60d7b9bf9d41e7909ff.jpg",
-        "date": "2026.1.16放送",
-        "lineupid": "610",
-        "mitai": "11252",
-        "title": "名探偵コナン　エピソード“ONE”小さくなった名探偵"
-      }
-    },
     {
       "title": "名探偵コナン　江戸川コナン失踪事件 ～史上最悪の二日間～",
       "broadcastDate": "2026.1.23",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3a1194da3d016652495530bf8ce985fb3c939706.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260123",
       "lineupId": "611",
-      "mitaiCount": "7583",
+      "mitaiCount": "10863",
       "raw": {
         "href": "/lineup/20260123",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3a1194da3d016652495530bf8ce985fb3c939706.jpg",
         "date": "2026.1.23放送",
         "lineupid": "611",
-        "mitai": "7583",
+        "mitai": "10863",
         "title": "名探偵コナン　江戸川コナン失踪事件 ～史上最悪の二日間～"
       }
     },
@@ -55,14 +23,46 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9f411d7fcc2857e346d0c3655febeb62d0c41f1c.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260130",
       "lineupId": "612",
-      "mitaiCount": "3491",
+      "mitaiCount": "8613",
       "raw": {
         "href": "/lineup/20260130",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9f411d7fcc2857e346d0c3655febeb62d0c41f1c.jpg",
         "date": "2026.1.30放送",
         "lineupid": "612",
-        "mitai": "3491",
+        "mitai": "8613",
         "title": "はたらく細胞"
+      }
+    },
+    {
+      "title": "チャーリーとチョコレート工場",
+      "broadcastDate": "2026.2.6",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/23b50d1a36a04cfd9ff6c4c5232df3e2bdc389cd.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260206",
+      "lineupId": "613",
+      "mitaiCount": "1713",
+      "raw": {
+        "href": "/lineup/20260206",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/23b50d1a36a04cfd9ff6c4c5232df3e2bdc389cd.jpg",
+        "date": "2026.2.6放送",
+        "lineupid": "613",
+        "mitai": "1713",
+        "title": "チャーリーとチョコレート工場"
+      }
+    },
+    {
+      "title": "ウォンカとチョコレート工場のはじまり",
+      "broadcastDate": "2026.2.13",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/b8ebbadf0656b9b5426d6165f08dec3cc168f305.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260213",
+      "lineupId": "614",
+      "mitaiCount": "1489",
+      "raw": {
+        "href": "/lineup/20260213",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/b8ebbadf0656b9b5426d6165f08dec3cc168f305.jpg",
+        "date": "2026.2.13放送",
+        "lineupid": "614",
+        "mitai": "1489",
+        "title": "ウォンカとチョコレート工場のはじまり"
       }
     }
   ]
