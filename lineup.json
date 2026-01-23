@@ -1,35 +1,19 @@
 {
-  "createdAt": "2026-01-16T14:15:13.004Z",
+  "createdAt": "2026-01-23T14:16:49.251Z",
   "movies": [
-    {
-      "title": "名探偵コナン　江戸川コナン失踪事件 ～史上最悪の二日間～",
-      "broadcastDate": "2026.1.23",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3a1194da3d016652495530bf8ce985fb3c939706.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260123",
-      "lineupId": "611",
-      "mitaiCount": "10863",
-      "raw": {
-        "href": "/lineup/20260123",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/3a1194da3d016652495530bf8ce985fb3c939706.jpg",
-        "date": "2026.1.23放送",
-        "lineupid": "611",
-        "mitai": "10863",
-        "title": "名探偵コナン　江戸川コナン失踪事件 ～史上最悪の二日間～"
-      }
-    },
     {
       "title": "はたらく細胞",
       "broadcastDate": "2026.1.30",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9f411d7fcc2857e346d0c3655febeb62d0c41f1c.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260130",
       "lineupId": "612",
-      "mitaiCount": "8613",
+      "mitaiCount": "13259",
       "raw": {
         "href": "/lineup/20260130",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9f411d7fcc2857e346d0c3655febeb62d0c41f1c.jpg",
         "date": "2026.1.30放送",
         "lineupid": "612",
-        "mitai": "8613",
+        "mitai": "13259",
         "title": "はたらく細胞"
       }
     },
@@ -39,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/23b50d1a36a04cfd9ff6c4c5232df3e2bdc389cd.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260206",
       "lineupId": "613",
-      "mitaiCount": "1713",
+      "mitaiCount": "4321",
       "raw": {
         "href": "/lineup/20260206",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/23b50d1a36a04cfd9ff6c4c5232df3e2bdc389cd.jpg",
         "date": "2026.2.6放送",
         "lineupid": "613",
-        "mitai": "1713",
+        "mitai": "4321",
         "title": "チャーリーとチョコレート工場"
       }
     },
@@ -55,13 +39,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/b8ebbadf0656b9b5426d6165f08dec3cc168f305.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260213",
       "lineupId": "614",
-      "mitaiCount": "1489",
+      "mitaiCount": "3569",
       "raw": {
         "href": "/lineup/20260213",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/b8ebbadf0656b9b5426d6165f08dec3cc168f305.jpg",
         "date": "2026.2.13放送",
         "lineupid": "614",
-        "mitai": "1489",
+        "mitai": "3569",
         "title": "ウォンカとチョコレート工場のはじまり"
       }
     }
