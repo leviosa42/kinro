@@ -1,35 +1,19 @@
 {
-  "createdAt": "2026-01-30T14:27:13.930Z",
+  "createdAt": "2026-02-06T14:34:40.716Z",
   "movies": [
-    {
-      "title": "チャーリーとチョコレート工場",
-      "broadcastDate": "2026.2.6",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/23b50d1a36a04cfd9ff6c4c5232df3e2bdc389cd.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260206",
-      "lineupId": "613",
-      "mitaiCount": "7489",
-      "raw": {
-        "href": "/lineup/20260206",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/23b50d1a36a04cfd9ff6c4c5232df3e2bdc389cd.jpg",
-        "date": "2026.2.6放送",
-        "lineupid": "613",
-        "mitai": "7489",
-        "title": "チャーリーとチョコレート工場"
-      }
-    },
     {
       "title": "ウォンカとチョコレート工場のはじまり",
       "broadcastDate": "2026.2.13",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/b8ebbadf0656b9b5426d6165f08dec3cc168f305.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260213",
       "lineupId": "614",
-      "mitaiCount": "5568",
+      "mitaiCount": "8575",
       "raw": {
         "href": "/lineup/20260213",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/b8ebbadf0656b9b5426d6165f08dec3cc168f305.jpg",
         "date": "2026.2.13放送",
         "lineupid": "614",
-        "mitai": "5568",
+        "mitai": "8575",
         "title": "ウォンカとチョコレート工場のはじまり"
       }
     },
@@ -39,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/f7d7094b542816255b674f5f996fcb0148010b87.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260220",
       "lineupId": "615",
-      "mitaiCount": "1269",
+      "mitaiCount": "3496",
       "raw": {
         "href": "/lineup/20260220",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/f7d7094b542816255b674f5f996fcb0148010b87.jpg",
         "date": "2026.2.20放送",
         "lineupid": "615",
-        "mitai": "1269",
+        "mitai": "3496",
         "title": "ゴールデンカムイ"
       }
     },
@@ -55,13 +39,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/744c2edeb36368e092312325f7c479e0ef25b758.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260227",
       "lineupId": "616",
-      "mitaiCount": "807",
+      "mitaiCount": "2057",
       "raw": {
         "href": "/lineup/20260227",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/744c2edeb36368e092312325f7c479e0ef25b758.jpg",
         "date": "2026.2.27放送",
         "lineupid": "616",
-        "mitai": "807",
+        "mitai": "2057",
         "title": "ドラマ『ゴールデンカムイ　北海道刺青囚人争奪編』特別編集版"
       }
     }
