@@ -1,35 +1,19 @@
 {
-  "createdAt": "2026-03-13T14:35:48.026Z",
+  "createdAt": "2026-03-20T14:36:43.218Z",
   "movies": [
-    {
-      "title": "モンスターズ・ユニバーシティ",
-      "broadcastDate": "2026.3.20",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/dd49505646f4d601b6324f79f1aa30485a58dbde.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260320",
-      "lineupId": "618",
-      "mitaiCount": "24388",
-      "raw": {
-        "href": "/lineup/20260320",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/dd49505646f4d601b6324f79f1aa30485a58dbde.jpg",
-        "date": "2026.3.20放送",
-        "lineupid": "618",
-        "mitai": "24388",
-        "title": "モンスターズ・ユニバーシティ"
-      }
-    },
     {
       "title": "名探偵コナン 探偵たちの鎮魂歌",
       "broadcastDate": "2026.3.27",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/84daf57d1e7474d28503afbb2dca938bd3de9c4d.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260327",
       "lineupId": "619",
-      "mitaiCount": "13557",
+      "mitaiCount": "19057",
       "raw": {
         "href": "/lineup/20260327",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/84daf57d1e7474d28503afbb2dca938bd3de9c4d.jpg",
         "date": "2026.3.27放送",
         "lineupid": "619",
-        "mitai": "13557",
+        "mitai": "19057",
         "title": "名探偵コナン 探偵たちの鎮魂歌"
       }
     },
@@ -39,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/fe42467e2f125762565912bd2004dc09e6fbd9bf.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260403",
       "lineupId": "620",
-      "mitaiCount": "7238",
+      "mitaiCount": "9995",
       "raw": {
         "href": "/lineup/20260403",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/fe42467e2f125762565912bd2004dc09e6fbd9bf.jpg",
         "date": "2026.4.3放送",
         "lineupid": "620",
-        "mitai": "7238",
+        "mitai": "9995",
         "title": "名探偵コナン　緋色の弾丸"
       }
     },
@@ -55,13 +39,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cc04ef6eebf0bfbba816ac6875466a57a7bb1b96.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260410",
       "lineupId": "621",
-      "mitaiCount": "16631",
+      "mitaiCount": "23514",
       "raw": {
         "href": "/lineup/20260410",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cc04ef6eebf0bfbba816ac6875466a57a7bb1b96.jpg",
         "date": "2026.4.10放送",
         "lineupid": "621",
-        "mitai": "16631",
+        "mitai": "23514",
         "title": "名探偵コナン 隻眼の残像"
       }
     },
@@ -71,13 +55,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2296e96a872f428fd68e544fb600da43777c2489.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260417",
       "lineupId": "622",
-      "mitaiCount": "6593",
+      "mitaiCount": "8905",
       "raw": {
         "href": "/lineup/20260417",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2296e96a872f428fd68e544fb600da43777c2489.jpg",
         "date": "2026.4.17放送",
         "lineupid": "622",
-        "mitai": "6593",
+        "mitai": "8905",
         "title": "名探偵コナン ハロウィンの花嫁"
       }
     }
