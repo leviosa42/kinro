@@ -1,35 +1,19 @@
 {
-  "createdAt": "2026-04-03T14:35:50.968Z",
+  "createdAt": "2026-04-10T14:41:15.898Z",
   "movies": [
-    {
-      "title": "名探偵コナン 隻眼の残像",
-      "broadcastDate": "2026.4.10",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cc04ef6eebf0bfbba816ac6875466a57a7bb1b96.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260410",
-      "lineupId": "621",
-      "mitaiCount": "40792",
-      "raw": {
-        "href": "/lineup/20260410",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cc04ef6eebf0bfbba816ac6875466a57a7bb1b96.jpg",
-        "date": "2026.4.10放送",
-        "lineupid": "621",
-        "mitai": "40792",
-        "title": "名探偵コナン 隻眼の残像"
-      }
-    },
     {
       "title": "名探偵コナン ハロウィンの花嫁",
       "broadcastDate": "2026.4.17",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2296e96a872f428fd68e544fb600da43777c2489.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260417",
       "lineupId": "622",
-      "mitaiCount": "14838",
+      "mitaiCount": "18999",
       "raw": {
         "href": "/lineup/20260417",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2296e96a872f428fd68e544fb600da43777c2489.jpg",
         "date": "2026.4.17放送",
         "lineupid": "622",
-        "mitai": "14838",
+        "mitai": "18999",
         "title": "名探偵コナン ハロウィンの花嫁"
       }
     },
@@ -39,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0d78e0b09836c9109e46926c84e15930779e5ec0.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260424",
       "lineupId": "623",
-      "mitaiCount": "4608",
+      "mitaiCount": "7982",
       "raw": {
         "href": "/lineup/20260424",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0d78e0b09836c9109e46926c84e15930779e5ec0.jpg",
         "date": "2026.4.24放送",
         "lineupid": "623",
-        "mitai": "4608",
+        "mitai": "7982",
         "title": "プラダを着た悪魔"
       }
     },
@@ -55,13 +39,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/4e39b6d4fae6c8b75fc7b19766fcb6da35482413.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260501",
       "lineupId": "625",
-      "mitaiCount": "2412",
+      "mitaiCount": "7098",
       "raw": {
         "href": "/lineup/20260501",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/4e39b6d4fae6c8b75fc7b19766fcb6da35482413.jpg",
         "date": "2026.5.1放送",
         "lineupid": "625",
-        "mitai": "2412",
+        "mitai": "7098",
         "title": "耳をすませば"
       }
     },
@@ -71,13 +55,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0f42dd9c47b0e9067dee5c06e05606e193408ec0.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260508",
       "lineupId": "624",
-      "mitaiCount": "2162",
+      "mitaiCount": "6289",
       "raw": {
         "href": "/lineup/20260508",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0f42dd9c47b0e9067dee5c06e05606e193408ec0.jpg",
         "date": "2026.5.8放送",
         "lineupid": "624",
-        "mitai": "2162",
+        "mitai": "6289",
         "title": "魔女の宅急便"
       }
     }
