@@ -1,35 +1,19 @@
 {
-  "createdAt": "2026-04-24T15:00:05.559Z",
+  "createdAt": "2026-05-01T14:45:56.099Z",
   "movies": [
-    {
-      "title": "耳をすませば",
-      "broadcastDate": "2026.5.1",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/4e39b6d4fae6c8b75fc7b19766fcb6da35482413.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260501",
-      "lineupId": "625",
-      "mitaiCount": "19378",
-      "raw": {
-        "href": "/lineup/20260501",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/4e39b6d4fae6c8b75fc7b19766fcb6da35482413.jpg",
-        "date": "2026.5.1放送",
-        "lineupid": "625",
-        "mitai": "19378",
-        "title": "耳をすませば"
-      }
-    },
     {
       "title": "魔女の宅急便",
       "broadcastDate": "2026.5.8",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0f42dd9c47b0e9067dee5c06e05606e193408ec0.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260508",
       "lineupId": "624",
-      "mitaiCount": "15863",
+      "mitaiCount": "24048",
       "raw": {
         "href": "/lineup/20260508",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0f42dd9c47b0e9067dee5c06e05606e193408ec0.jpg",
         "date": "2026.5.8放送",
         "lineupid": "624",
-        "mitai": "15863",
+        "mitai": "24048",
         "title": "魔女の宅急便"
       }
     },
@@ -39,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/70f796e992a2d7d50434488327280655a0c4848a.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260515",
       "lineupId": "626",
-      "mitaiCount": "3961",
+      "mitaiCount": "6358",
       "raw": {
         "href": "/lineup/20260515",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/70f796e992a2d7d50434488327280655a0c4848a.jpg",
         "date": "2026.5.15放送",
         "lineupid": "626",
-        "mitai": "3961",
+        "mitai": "6358",
         "title": "ダンボ"
       }
     },
@@ -55,14 +39,30 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/6813cc7c90c28c45e05036552d7fbd7074709114.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260522",
       "lineupId": "627",
-      "mitaiCount": "2013",
+      "mitaiCount": "4731",
       "raw": {
         "href": "/lineup/20260522",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/6813cc7c90c28c45e05036552d7fbd7074709114.jpg",
         "date": "2026.5.22放送",
         "lineupid": "627",
-        "mitai": "2013",
+        "mitai": "4731",
         "title": "ミニオンズ フィーバー"
+      }
+    },
+    {
+      "title": "「ピーター・パン」「アナと雪の女王／エルサのサプライズ」「ラプンツェルのウェディング」",
+      "broadcastDate": "2026.5.29",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0701f0dd859e6c446216d89049f10fba840bcf79.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260529",
+      "lineupId": "628",
+      "mitaiCount": "3655",
+      "raw": {
+        "href": "/lineup/20260529",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0701f0dd859e6c446216d89049f10fba840bcf79.jpg",
+        "date": "2026.5.29放送",
+        "lineupid": "628",
+        "mitai": "3655",
+        "title": "「ピーター・パン」「アナと雪の女王／エルサのサプライズ」「ラプンツェルのウェディング」"
       }
     }
   ]
