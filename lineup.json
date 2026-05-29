@@ -1,35 +1,19 @@
 {
-  "createdAt": "2026-05-22T16:14:07.582Z",
+  "createdAt": "2026-05-29T17:26:25.349Z",
   "movies": [
-    {
-      "title": "「ピーター・パン」「アナと雪の女王／エルサのサプライズ」「ラプンツェルのウェディング」",
-      "broadcastDate": "2026.5.29",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0701f0dd859e6c446216d89049f10fba840bcf79.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260529",
-      "lineupId": "628",
-      "mitaiCount": "21468",
-      "raw": {
-        "href": "/lineup/20260529",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0701f0dd859e6c446216d89049f10fba840bcf79.jpg",
-        "date": "2026.5.29放送",
-        "lineupid": "628",
-        "mitai": "21468",
-        "title": "「ピーター・パン」「アナと雪の女王／エルサのサプライズ」「ラプンツェルのウェディング」"
-      }
-    },
     {
       "title": "グーニーズ",
       "broadcastDate": "2026.6.5",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a17077cac72a0861604dd1322c31ae1f919cfbc4.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260605",
       "lineupId": "629",
-      "mitaiCount": "7224",
+      "mitaiCount": "10442",
       "raw": {
         "href": "/lineup/20260605",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a17077cac72a0861604dd1322c31ae1f919cfbc4.jpg",
         "date": "2026.6.5放送",
         "lineupid": "629",
-        "mitai": "7224",
+        "mitai": "10442",
         "title": "グーニーズ"
       }
     },
@@ -39,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0ce0857604013ceb1ed148662c54beab25594682.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260612",
       "lineupId": "633",
-      "mitaiCount": "4284",
+      "mitaiCount": "7237",
       "raw": {
         "href": "/lineup/20260612",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0ce0857604013ceb1ed148662c54beab25594682.jpg",
         "date": "2026.6.12放送",
         "lineupid": "633",
-        "mitai": "4284",
+        "mitai": "7237",
         "title": "トイ・ストーリー"
       }
     },
@@ -55,13 +39,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/d8edab10aa8b50ccc4d8eab9aaa5cda2118921b9.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260619",
       "lineupId": "632",
-      "mitaiCount": "2180",
+      "mitaiCount": "3585",
       "raw": {
         "href": "/lineup/20260619",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/d8edab10aa8b50ccc4d8eab9aaa5cda2118921b9.jpg",
         "date": "2026.6.19放送",
         "lineupid": "632",
-        "mitai": "2180",
+        "mitai": "3585",
         "title": "トイ・ストーリー2"
       }
     },
@@ -71,13 +55,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/77187a031574013433a2fd7f300380da3abad5cf.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260626",
       "lineupId": "631",
-      "mitaiCount": "2120",
+      "mitaiCount": "3344",
       "raw": {
         "href": "/lineup/20260626",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/77187a031574013433a2fd7f300380da3abad5cf.jpg",
         "date": "2026.6.26放送",
         "lineupid": "631",
-        "mitai": "2120",
+        "mitai": "3344",
         "title": "トイ・ストーリー3"
       }
     },
@@ -87,13 +71,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/f8ecbed415985dcea717a3db21578e477cdd54a5.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260703",
       "lineupId": "630",
-      "mitaiCount": "3218",
+      "mitaiCount": "5255",
       "raw": {
         "href": "/lineup/20260703",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/f8ecbed415985dcea717a3db21578e477cdd54a5.jpg",
         "date": "2026.7.3放送",
         "lineupid": "630",
-        "mitai": "3218",
+        "mitai": "5255",
         "title": "トイ・ストーリー4"
       }
     }
