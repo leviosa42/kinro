@@ -1,35 +1,19 @@
 {
-  "createdAt": "2026-05-29T17:26:25.349Z",
+  "createdAt": "2026-06-05T16:24:29.607Z",
   "movies": [
-    {
-      "title": "グーニーズ",
-      "broadcastDate": "2026.6.5",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a17077cac72a0861604dd1322c31ae1f919cfbc4.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260605",
-      "lineupId": "629",
-      "mitaiCount": "10442",
-      "raw": {
-        "href": "/lineup/20260605",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a17077cac72a0861604dd1322c31ae1f919cfbc4.jpg",
-        "date": "2026.6.5放送",
-        "lineupid": "629",
-        "mitai": "10442",
-        "title": "グーニーズ"
-      }
-    },
     {
       "title": "トイ・ストーリー",
       "broadcastDate": "2026.6.12",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0ce0857604013ceb1ed148662c54beab25594682.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260612",
       "lineupId": "633",
-      "mitaiCount": "7237",
+      "mitaiCount": "12369",
       "raw": {
         "href": "/lineup/20260612",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0ce0857604013ceb1ed148662c54beab25594682.jpg",
         "date": "2026.6.12放送",
         "lineupid": "633",
-        "mitai": "7237",
+        "mitai": "12369",
         "title": "トイ・ストーリー"
       }
     },
@@ -39,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/d8edab10aa8b50ccc4d8eab9aaa5cda2118921b9.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260619",
       "lineupId": "632",
-      "mitaiCount": "3585",
+      "mitaiCount": "5581",
       "raw": {
         "href": "/lineup/20260619",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/d8edab10aa8b50ccc4d8eab9aaa5cda2118921b9.jpg",
         "date": "2026.6.19放送",
         "lineupid": "632",
-        "mitai": "3585",
+        "mitai": "5581",
         "title": "トイ・ストーリー2"
       }
     },
@@ -55,13 +39,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/77187a031574013433a2fd7f300380da3abad5cf.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260626",
       "lineupId": "631",
-      "mitaiCount": "3344",
+      "mitaiCount": "4974",
       "raw": {
         "href": "/lineup/20260626",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/77187a031574013433a2fd7f300380da3abad5cf.jpg",
         "date": "2026.6.26放送",
         "lineupid": "631",
-        "mitai": "3344",
+        "mitai": "4974",
         "title": "トイ・ストーリー3"
       }
     },
@@ -71,13 +55,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/f8ecbed415985dcea717a3db21578e477cdd54a5.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260703",
       "lineupId": "630",
-      "mitaiCount": "5255",
+      "mitaiCount": "7567",
       "raw": {
         "href": "/lineup/20260703",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/f8ecbed415985dcea717a3db21578e477cdd54a5.jpg",
         "date": "2026.7.3放送",
         "lineupid": "630",
-        "mitai": "5255",
+        "mitai": "7567",
         "title": "トイ・ストーリー4"
       }
     }
