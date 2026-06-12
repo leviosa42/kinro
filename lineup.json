@@ -1,35 +1,19 @@
 {
-  "createdAt": "2026-06-05T16:24:29.607Z",
+  "createdAt": "2026-06-12T16:37:29.297Z",
   "movies": [
-    {
-      "title": "トイ・ストーリー",
-      "broadcastDate": "2026.6.12",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0ce0857604013ceb1ed148662c54beab25594682.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260612",
-      "lineupId": "633",
-      "mitaiCount": "12369",
-      "raw": {
-        "href": "/lineup/20260612",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/0ce0857604013ceb1ed148662c54beab25594682.jpg",
-        "date": "2026.6.12放送",
-        "lineupid": "633",
-        "mitai": "12369",
-        "title": "トイ・ストーリー"
-      }
-    },
     {
       "title": "トイ・ストーリー2",
       "broadcastDate": "2026.6.19",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/d8edab10aa8b50ccc4d8eab9aaa5cda2118921b9.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260619",
       "lineupId": "632",
-      "mitaiCount": "5581",
+      "mitaiCount": "8231",
       "raw": {
         "href": "/lineup/20260619",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/d8edab10aa8b50ccc4d8eab9aaa5cda2118921b9.jpg",
         "date": "2026.6.19放送",
         "lineupid": "632",
-        "mitai": "5581",
+        "mitai": "8231",
         "title": "トイ・ストーリー2"
       }
     },
@@ -39,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/77187a031574013433a2fd7f300380da3abad5cf.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260626",
       "lineupId": "631",
-      "mitaiCount": "4974",
+      "mitaiCount": "6469",
       "raw": {
         "href": "/lineup/20260626",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/77187a031574013433a2fd7f300380da3abad5cf.jpg",
         "date": "2026.6.26放送",
         "lineupid": "631",
-        "mitai": "4974",
+        "mitai": "6469",
         "title": "トイ・ストーリー3"
       }
     },
@@ -55,14 +39,46 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/f8ecbed415985dcea717a3db21578e477cdd54a5.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260703",
       "lineupId": "630",
-      "mitaiCount": "7567",
+      "mitaiCount": "9681",
       "raw": {
         "href": "/lineup/20260703",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/f8ecbed415985dcea717a3db21578e477cdd54a5.jpg",
         "date": "2026.7.3放送",
         "lineupid": "630",
-        "mitai": "7567",
+        "mitai": "9681",
         "title": "トイ・ストーリー4"
+      }
+    },
+    {
+      "title": "キングダム　スペシャルエディション",
+      "broadcastDate": "2026.7.10",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9c4159a42e6d2ad71569a5ca5a46501a1618c439.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260710",
+      "lineupId": "634",
+      "mitaiCount": "933",
+      "raw": {
+        "href": "/lineup/20260710",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9c4159a42e6d2ad71569a5ca5a46501a1618c439.jpg",
+        "date": "2026.7.10放送",
+        "lineupid": "634",
+        "mitai": "933",
+        "title": "キングダム　スペシャルエディション"
+      }
+    },
+    {
+      "title": "今夜限りの特別版『キングダム －信と王騎と将軍と－』最新作公開記念SP",
+      "broadcastDate": "2026.7.17",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cce89ce1d19a8eebafd8a7640cf6dde6d9fa06d9.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260717",
+      "lineupId": "635",
+      "mitaiCount": "698",
+      "raw": {
+        "href": "/lineup/20260717",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cce89ce1d19a8eebafd8a7640cf6dde6d9fa06d9.jpg",
+        "date": "2026.7.17放送",
+        "lineupid": "635",
+        "mitai": "698",
+        "title": "今夜限りの特別版『キングダム －信と王騎と将軍と－』最新作公開記念SP"
       }
     }
   ]
