@@ -1,35 +1,19 @@
 {
-  "createdAt": "2026-06-19T16:27:10.349Z",
+  "createdAt": "2026-06-26T16:06:18.904Z",
   "movies": [
-    {
-      "title": "トイ・ストーリー3",
-      "broadcastDate": "2026.6.26",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/77187a031574013433a2fd7f300380da3abad5cf.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260626",
-      "lineupId": "631",
-      "mitaiCount": "8337",
-      "raw": {
-        "href": "/lineup/20260626",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/77187a031574013433a2fd7f300380da3abad5cf.jpg",
-        "date": "2026.6.26放送",
-        "lineupid": "631",
-        "mitai": "8337",
-        "title": "トイ・ストーリー3"
-      }
-    },
     {
       "title": "トイ・ストーリー4",
       "broadcastDate": "2026.7.3",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/f8ecbed415985dcea717a3db21578e477cdd54a5.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260703",
       "lineupId": "630",
-      "mitaiCount": "11496",
+      "mitaiCount": "14223",
       "raw": {
         "href": "/lineup/20260703",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/f8ecbed415985dcea717a3db21578e477cdd54a5.jpg",
         "date": "2026.7.3放送",
         "lineupid": "630",
-        "mitai": "11496",
+        "mitai": "14223",
         "title": "トイ・ストーリー4"
       }
     },
@@ -39,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9c4159a42e6d2ad71569a5ca5a46501a1618c439.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260710",
       "lineupId": "634",
-      "mitaiCount": "2270",
+      "mitaiCount": "3468",
       "raw": {
         "href": "/lineup/20260710",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9c4159a42e6d2ad71569a5ca5a46501a1618c439.jpg",
         "date": "2026.7.10放送",
         "lineupid": "634",
-        "mitai": "2270",
+        "mitai": "3468",
         "title": "キングダム　スペシャルエディション"
       }
     },
@@ -55,14 +39,30 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cce89ce1d19a8eebafd8a7640cf6dde6d9fa06d9.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260717",
       "lineupId": "635",
-      "mitaiCount": "1986",
+      "mitaiCount": "2815",
       "raw": {
         "href": "/lineup/20260717",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cce89ce1d19a8eebafd8a7640cf6dde6d9fa06d9.jpg",
         "date": "2026.7.17放送",
         "lineupid": "635",
-        "mitai": "1986",
+        "mitai": "2815",
         "title": "今夜限りの特別版『キングダム －信と王騎と将軍と－』最新作公開記念SP"
+      }
+    },
+    {
+      "title": "モアナと伝説の海",
+      "broadcastDate": "2026.7.24",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/6d6db4938fe1b8f63497aa6bcd6b8e4f9298feb9.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260724",
+      "lineupId": "636",
+      "mitaiCount": "1568",
+      "raw": {
+        "href": "/lineup/20260724",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/6d6db4938fe1b8f63497aa6bcd6b8e4f9298feb9.jpg",
+        "date": "2026.7.24放送",
+        "lineupid": "636",
+        "mitai": "1568",
+        "title": "モアナと伝説の海"
       }
     }
   ]
