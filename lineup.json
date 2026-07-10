@@ -1,35 +1,19 @@
 {
-  "createdAt": "2026-07-03T15:48:12.302Z",
+  "createdAt": "2026-07-10T16:13:25.573Z",
   "movies": [
-    {
-      "title": "キングダム　スペシャルエディション",
-      "broadcastDate": "2026.7.10",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9c4159a42e6d2ad71569a5ca5a46501a1618c439.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260710",
-      "lineupId": "634",
-      "mitaiCount": "5205",
-      "raw": {
-        "href": "/lineup/20260710",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9c4159a42e6d2ad71569a5ca5a46501a1618c439.jpg",
-        "date": "2026.7.10放送",
-        "lineupid": "634",
-        "mitai": "5205",
-        "title": "キングダム　スペシャルエディション"
-      }
-    },
     {
       "title": "今夜限りの特別版『キングダム －信と王騎と将軍と－』最新作公開記念SP",
       "broadcastDate": "2026.7.17",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cce89ce1d19a8eebafd8a7640cf6dde6d9fa06d9.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260717",
       "lineupId": "635",
-      "mitaiCount": "3832",
+      "mitaiCount": "5835",
       "raw": {
         "href": "/lineup/20260717",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/cce89ce1d19a8eebafd8a7640cf6dde6d9fa06d9.jpg",
         "date": "2026.7.17放送",
         "lineupid": "635",
-        "mitai": "3832",
+        "mitai": "5835",
         "title": "今夜限りの特別版『キングダム －信と王騎と将軍と－』最新作公開記念SP"
       }
     },
@@ -39,14 +23,30 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/6d6db4938fe1b8f63497aa6bcd6b8e4f9298feb9.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260724",
       "lineupId": "636",
-      "mitaiCount": "4646",
+      "mitaiCount": "10368",
       "raw": {
         "href": "/lineup/20260724",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/6d6db4938fe1b8f63497aa6bcd6b8e4f9298feb9.jpg",
         "date": "2026.7.24放送",
         "lineupid": "636",
-        "mitai": "4646",
+        "mitai": "10368",
         "title": "モアナと伝説の海"
+      }
+    },
+    {
+      "title": "ジュラシック・ワールド／復活の大地",
+      "broadcastDate": "2026.7.31",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/fd9e571ebb2d659eb0cf5815e80843cc8e3fe4e6.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260731",
+      "lineupId": "637",
+      "mitaiCount": "1892",
+      "raw": {
+        "href": "/lineup/20260731",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/fd9e571ebb2d659eb0cf5815e80843cc8e3fe4e6.jpg",
+        "date": "2026.7.31放送",
+        "lineupid": "637",
+        "mitai": "1892",
+        "title": "ジュラシック・ワールド／復活の大地"
       }
     }
   ]
