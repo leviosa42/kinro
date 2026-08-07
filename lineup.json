@@ -1,35 +1,19 @@
 {
-  "createdAt": "2026-07-31T15:53:52.100Z",
+  "createdAt": "2026-08-07T14:44:00.685Z",
   "movies": [
-    {
-      "title": "借りぐらしのアリエッティ",
-      "broadcastDate": "2026.8.7",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9bedc68c8789e09b01eb8416e3f6f9021f0be80c.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260807",
-      "lineupId": "638",
-      "mitaiCount": "22267",
-      "raw": {
-        "href": "/lineup/20260807",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/9bedc68c8789e09b01eb8416e3f6f9021f0be80c.jpg",
-        "date": "2026.8.7放送",
-        "lineupid": "638",
-        "mitai": "22267",
-        "title": "借りぐらしのアリエッティ"
-      }
-    },
     {
       "title": "風の谷のナウシカ",
       "broadcastDate": "2026.8.14",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2725f61676ecfdf0958b01921b5f6b3caf89c5d4.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260814",
       "lineupId": "639",
-      "mitaiCount": "14131",
+      "mitaiCount": "20734",
       "raw": {
         "href": "/lineup/20260814",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2725f61676ecfdf0958b01921b5f6b3caf89c5d4.jpg",
         "date": "2026.8.14放送",
         "lineupid": "639",
-        "mitai": "14131",
+        "mitai": "20734",
         "title": "風の谷のナウシカ"
       }
     },
@@ -39,13 +23,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/8219c15d8e361cc513160d10730074fa292fde70.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260821",
       "lineupId": "640",
-      "mitaiCount": "15506",
+      "mitaiCount": "22024",
       "raw": {
         "href": "/lineup/20260821",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/8219c15d8e361cc513160d10730074fa292fde70.jpg",
         "date": "2026.8.21放送",
         "lineupid": "640",
-        "mitai": "15506",
+        "mitai": "22024",
         "title": "となりのトトロ"
       }
     }
