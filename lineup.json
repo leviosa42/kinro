@@ -1,36 +1,68 @@
 {
-  "createdAt": "2026-08-07T14:44:00.685Z",
+  "createdAt": "2026-08-14T14:43:21.155Z",
   "movies": [
-    {
-      "title": "風の谷のナウシカ",
-      "broadcastDate": "2026.8.14",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2725f61676ecfdf0958b01921b5f6b3caf89c5d4.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260814",
-      "lineupId": "639",
-      "mitaiCount": "20734",
-      "raw": {
-        "href": "/lineup/20260814",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2725f61676ecfdf0958b01921b5f6b3caf89c5d4.jpg",
-        "date": "2026.8.14放送",
-        "lineupid": "639",
-        "mitai": "20734",
-        "title": "風の谷のナウシカ"
-      }
-    },
     {
       "title": "となりのトトロ",
       "broadcastDate": "2026.8.21",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/8219c15d8e361cc513160d10730074fa292fde70.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260821",
       "lineupId": "640",
-      "mitaiCount": "22024",
+      "mitaiCount": "28658",
       "raw": {
         "href": "/lineup/20260821",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/8219c15d8e361cc513160d10730074fa292fde70.jpg",
         "date": "2026.8.21放送",
         "lineupid": "640",
-        "mitai": "22024",
+        "mitai": "28658",
         "title": "となりのトトロ"
+      }
+    },
+    {
+      "title": "８番出口",
+      "broadcastDate": "2026.8.28",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/14f6f18a0036ad59d9c2d9c0e08c51ea77c931ba.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260828",
+      "lineupId": "644",
+      "mitaiCount": "9760",
+      "raw": {
+        "href": "/lineup/20260828",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/14f6f18a0036ad59d9c2d9c0e08c51ea77c931ba.jpg",
+        "date": "2026.8.28放送",
+        "lineupid": "644",
+        "mitai": "9760",
+        "title": "８番出口"
+      }
+    },
+    {
+      "title": "タイタニック（前編）",
+      "broadcastDate": "2026.9.4",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/27cd2fc4bd40ec12f83bbd21d92c894117222b6b.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260904",
+      "lineupId": "645",
+      "mitaiCount": "1511",
+      "raw": {
+        "href": "/lineup/20260904",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/27cd2fc4bd40ec12f83bbd21d92c894117222b6b.jpg",
+        "date": "2026.9.4放送",
+        "lineupid": "645",
+        "mitai": "1511",
+        "title": "タイタニック（前編）"
+      }
+    },
+    {
+      "title": "タイタニック（後編）",
+      "broadcastDate": "2026.9.11",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/63140c3196f72a75102857783007e281f831a0be.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260911",
+      "lineupId": "646",
+      "mitaiCount": "934",
+      "raw": {
+        "href": "/lineup/20260911",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/63140c3196f72a75102857783007e281f831a0be.jpg",
+        "date": "2026.9.11放送",
+        "lineupid": "646",
+        "mitai": "934",
+        "title": "タイタニック（後編）"
       }
     }
   ]
