@@ -1,36 +1,52 @@
 {
-  "createdAt": "2026-09-11T17:24:42.774Z",
+  "createdAt": "2026-09-18T17:22:13.355Z",
   "movies": [
-    {
-      "title": "ナイト ミュージアム",
-      "broadcastDate": "2026.9.18",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e0df903ddb060d42e2a245776b7173496cd4a9c2.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260918",
-      "lineupId": "647",
-      "mitaiCount": "6782",
-      "raw": {
-        "href": "/lineup/20260918",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/e0df903ddb060d42e2a245776b7173496cd4a9c2.jpg",
-        "date": "2026.9.18放送",
-        "lineupid": "647",
-        "mitai": "6782",
-        "title": "ナイト ミュージアム"
-      }
-    },
     {
       "title": "名探偵コナン　30号殺人事件",
       "broadcastDate": "2026.9.25",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/533f1d815b34d61ff99414864bc2dd26ec3e1845.jpg",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a047283f712917840ab6773aaac5bfd386c708af.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20260925",
       "lineupId": "648",
-      "mitaiCount": "10693",
+      "mitaiCount": "26256",
       "raw": {
         "href": "/lineup/20260925",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/533f1d815b34d61ff99414864bc2dd26ec3e1845.jpg",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a047283f712917840ab6773aaac5bfd386c708af.jpg",
         "date": "2026.9.25放送",
         "lineupid": "648",
-        "mitai": "10693",
+        "mitai": "26256",
         "title": "名探偵コナン　30号殺人事件"
+      }
+    },
+    {
+      "title": "インサイド・ヘッド",
+      "broadcastDate": "2026.10.9",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/364c56c3065d04dd4ca830b24a65a6d86d9338b1.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20261009",
+      "lineupId": "649",
+      "mitaiCount": "3197",
+      "raw": {
+        "href": "/lineup/20261009",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/364c56c3065d04dd4ca830b24a65a6d86d9338b1.jpg",
+        "date": "2026.10.9放送",
+        "lineupid": "649",
+        "mitai": "3197",
+        "title": "インサイド・ヘッド"
+      }
+    },
+    {
+      "title": "インサイド・ヘッド2",
+      "broadcastDate": "2026.10.16",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a4f6c419b6ffa611cdb94c482b9084a9b1aaf221.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20261016",
+      "lineupId": "650",
+      "mitaiCount": "3072",
+      "raw": {
+        "href": "/lineup/20261016",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a4f6c419b6ffa611cdb94c482b9084a9b1aaf221.jpg",
+        "date": "2026.10.16放送",
+        "lineupid": "650",
+        "mitai": "3072",
+        "title": "インサイド・ヘッド2"
       }
     }
   ]
