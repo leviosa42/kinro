@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-09-25T18:08:05.997Z",
+  "createdAt": "2026-10-02T18:48:09.735Z",
   "movies": [
     {
       "title": "インサイド・ヘッド",
@@ -7,13 +7,13 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/364c56c3065d04dd4ca830b24a65a6d86d9338b1.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20261009",
       "lineupId": "649",
-      "mitaiCount": "8314",
+      "mitaiCount": "17364",
       "raw": {
         "href": "/lineup/20261009",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/364c56c3065d04dd4ca830b24a65a6d86d9338b1.jpg",
         "date": "2026.10.9放送",
         "lineupid": "649",
-        "mitai": "8314",
+        "mitai": "17364",
         "title": "インサイド・ヘッド"
       }
     },
@@ -23,14 +23,46 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a4f6c419b6ffa611cdb94c482b9084a9b1aaf221.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20261016",
       "lineupId": "650",
-      "mitaiCount": "7226",
+      "mitaiCount": "11963",
       "raw": {
         "href": "/lineup/20261016",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a4f6c419b6ffa611cdb94c482b9084a9b1aaf221.jpg",
         "date": "2026.10.16放送",
         "lineupid": "650",
-        "mitai": "7226",
+        "mitai": "11963",
         "title": "インサイド・ヘッド2"
+      }
+    },
+    {
+      "title": "ALWAYS 三丁目の夕日",
+      "broadcastDate": "2026.10.23",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/7f2b16678f668208abd84d883e8ef53d64e685f2.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20261023",
+      "lineupId": "651",
+      "mitaiCount": "1098",
+      "raw": {
+        "href": "/lineup/20261023",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/7f2b16678f668208abd84d883e8ef53d64e685f2.jpg",
+        "date": "2026.10.23放送",
+        "lineupid": "651",
+        "mitai": "1098",
+        "title": "ALWAYS 三丁目の夕日"
+      }
+    },
+    {
+      "title": "ゴジラ-1.0",
+      "broadcastDate": "2026.10.30",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/ca20fe3a8d419cb910950fcb6dfebee4eb941da1.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20261030",
+      "lineupId": "652",
+      "mitaiCount": "1605",
+      "raw": {
+        "href": "/lineup/20261030",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/ca20fe3a8d419cb910950fcb6dfebee4eb941da1.jpg",
+        "date": "2026.10.30放送",
+        "lineupid": "652",
+        "mitai": "1605",
+        "title": "ゴジラ-1.0"
       }
     }
   ]
