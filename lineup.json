@@ -1,35 +1,19 @@
 {
-  "createdAt": "2026-10-09T19:08:25.048Z",
+  "createdAt": "2026-10-16T17:44:10.940Z",
   "movies": [
-    {
-      "title": "インサイド・ヘッド2",
-      "broadcastDate": "2026.10.16",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a4f6c419b6ffa611cdb94c482b9084a9b1aaf221.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20261016",
-      "lineupId": "650",
-      "mitaiCount": "16228",
-      "raw": {
-        "href": "/lineup/20261016",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a4f6c419b6ffa611cdb94c482b9084a9b1aaf221.jpg",
-        "date": "2026.10.16放送",
-        "lineupid": "650",
-        "mitai": "16228",
-        "title": "インサイド・ヘッド2"
-      }
-    },
     {
       "title": "ALWAYS 三丁目の夕日",
       "broadcastDate": "2026.10.23",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/7f2b16678f668208abd84d883e8ef53d64e685f2.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20261023",
       "lineupId": "651",
-      "mitaiCount": "2700",
+      "mitaiCount": "4202",
       "raw": {
         "href": "/lineup/20261023",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/7f2b16678f668208abd84d883e8ef53d64e685f2.jpg",
         "date": "2026.10.23放送",
         "lineupid": "651",
-        "mitai": "2700",
+        "mitai": "4202",
         "title": "ALWAYS 三丁目の夕日"
       }
     },
@@ -39,14 +23,46 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/ca20fe3a8d419cb910950fcb6dfebee4eb941da1.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20261030",
       "lineupId": "652",
-      "mitaiCount": "3957",
+      "mitaiCount": "5979",
       "raw": {
         "href": "/lineup/20261030",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/ca20fe3a8d419cb910950fcb6dfebee4eb941da1.jpg",
         "date": "2026.10.30放送",
         "lineupid": "652",
-        "mitai": "3957",
+        "mitai": "5979",
         "title": "ゴジラ-1.0"
+      }
+    },
+    {
+      "title": "ライオン・キング：ムファサ",
+      "broadcastDate": "2026.11.6",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/578ea0685cda655b77d32573f139ff6a3ac6f1d5.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20261106",
+      "lineupId": "653",
+      "mitaiCount": "1444",
+      "raw": {
+        "href": "/lineup/20261106",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/578ea0685cda655b77d32573f139ff6a3ac6f1d5.jpg",
+        "date": "2026.11.6放送",
+        "lineupid": "653",
+        "mitai": "1444",
+        "title": "ライオン・キング：ムファサ"
+      }
+    },
+    {
+      "title": "モアナと伝説の海2",
+      "broadcastDate": "2026.11.13",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/f6e068c43d28b554781b610d0f66c567018dd6fa.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20261113",
+      "lineupId": "654",
+      "mitaiCount": "2507",
+      "raw": {
+        "href": "/lineup/20261113",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/f6e068c43d28b554781b610d0f66c567018dd6fa.jpg",
+        "date": "2026.11.13放送",
+        "lineupid": "654",
+        "mitai": "2507",
+        "title": "モアナと伝説の海2"
       }
     }
   ]
