@@ -1,35 +1,19 @@
 {
-  "createdAt": "2026-10-23T18:00:54.718Z",
+  "createdAt": "2026-10-30T18:55:10.228Z",
   "movies": [
-    {
-      "title": "ゴジラ-1.0",
-      "broadcastDate": "2026.10.30",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/ca20fe3a8d419cb910950fcb6dfebee4eb941da1.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20261030",
-      "lineupId": "652",
-      "mitaiCount": "9528",
-      "raw": {
-        "href": "/lineup/20261030",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/ca20fe3a8d419cb910950fcb6dfebee4eb941da1.jpg",
-        "date": "2026.10.30放送",
-        "lineupid": "652",
-        "mitai": "9528",
-        "title": "ゴジラ-1.0"
-      }
-    },
     {
       "title": "ライオン・キング：ムファサ",
       "broadcastDate": "2026.11.6",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/578ea0685cda655b77d32573f139ff6a3ac6f1d5.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20261106",
       "lineupId": "653",
-      "mitaiCount": "5154",
+      "mitaiCount": "8313",
       "raw": {
         "href": "/lineup/20261106",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/578ea0685cda655b77d32573f139ff6a3ac6f1d5.jpg",
         "date": "2026.11.6放送",
         "lineupid": "653",
-        "mitai": "5154",
+        "mitai": "8313",
         "title": "ライオン・キング：ムファサ"
       }
     },
@@ -39,14 +23,46 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/f6e068c43d28b554781b610d0f66c567018dd6fa.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20261113",
       "lineupId": "654",
-      "mitaiCount": "10228",
+      "mitaiCount": "15659",
       "raw": {
         "href": "/lineup/20261113",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/f6e068c43d28b554781b610d0f66c567018dd6fa.jpg",
         "date": "2026.11.13放送",
         "lineupid": "654",
-        "mitai": "10228",
+        "mitai": "15659",
         "title": "モアナと伝説の海2"
+      }
+    },
+    {
+      "title": "SING／シング",
+      "broadcastDate": "2026.11.20",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/8e418a35791cae800227751892816a2d82564fa3.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20261120",
+      "lineupId": "655",
+      "mitaiCount": "1249",
+      "raw": {
+        "href": "/lineup/20261120",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/8e418a35791cae800227751892816a2d82564fa3.jpg",
+        "date": "2026.11.20放送",
+        "lineupid": "655",
+        "mitai": "1249",
+        "title": "SING／シング"
+      }
+    },
+    {
+      "title": "SING／シング：ネクストステージ",
+      "broadcastDate": "2026.11.27",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/5620c8749b3f67297c1c12ff46a9af2b6438bac8.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20261127",
+      "lineupId": "656",
+      "mitaiCount": "1172",
+      "raw": {
+        "href": "/lineup/20261127",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/5620c8749b3f67297c1c12ff46a9af2b6438bac8.jpg",
+        "date": "2026.11.27放送",
+        "lineupid": "656",
+        "mitai": "1172",
+        "title": "SING／シング：ネクストステージ"
       }
     }
   ]
