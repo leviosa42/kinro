@@ -1,35 +1,19 @@
 {
-  "createdAt": "2026-11-20T21:36:53.127Z",
+  "createdAt": "2026-11-27T22:24:49.641Z",
   "movies": [
-    {
-      "title": "SING／シング：ネクストステージ",
-      "broadcastDate": "2026.11.27",
-      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/5620c8749b3f67297c1c12ff46a9af2b6438bac8.jpg",
-      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20261127",
-      "lineupId": "656",
-      "mitaiCount": "7572",
-      "raw": {
-        "href": "/lineup/20261127",
-        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/5620c8749b3f67297c1c12ff46a9af2b6438bac8.jpg",
-        "date": "2026.11.27放送",
-        "lineupid": "656",
-        "mitai": "7572",
-        "title": "SING／シング：ネクストステージ"
-      }
-    },
     {
       "title": "シザーハンズ",
       "broadcastDate": "2026.12.4",
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/94584bddbf1ecb016fc8e5b2bf5bff9868a24468.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20261204",
       "lineupId": "657",
-      "mitaiCount": "4795",
+      "mitaiCount": "7668",
       "raw": {
         "href": "/lineup/20261204",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/94584bddbf1ecb016fc8e5b2bf5bff9868a24468.jpg",
         "date": "2026.12.4放送",
         "lineupid": "657",
-        "mitai": "4795",
+        "mitai": "7668",
         "title": "シザーハンズ"
       }
     },
@@ -39,14 +23,30 @@
       "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2b57c249646bb1bfd3aea45680e34c08aaf7a526.jpg",
       "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20261211",
       "lineupId": "659",
-      "mitaiCount": "7730",
+      "mitaiCount": "12113",
       "raw": {
         "href": "/lineup/20261211",
         "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/2b57c249646bb1bfd3aea45680e34c08aaf7a526.jpg",
         "date": "2026.12.11放送",
         "lineupid": "659",
-        "mitai": "7730",
+        "mitai": "12113",
         "title": "薬屋のひとりごと スペシャルエディション"
+      }
+    },
+    {
+      "title": "ミッキーのクリスマススペシャル",
+      "broadcastDate": "2026.12.18",
+      "thumbnailUrl": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a7736824313c4e048be4f240675350091791be68.jpg",
+      "articleUrl": "https://kinro.ntv.co.jp/lineup/lineup/20261218",
+      "lineupId": "660",
+      "mitaiCount": "2770",
+      "raw": {
+        "href": "/lineup/20261218",
+        "src": "https://dtg3yjoeemd2c.cloudfront.net/cms/lineup/a7736824313c4e048be4f240675350091791be68.jpg",
+        "date": "2026.12.18放送",
+        "lineupid": "660",
+        "mitai": "2770",
+        "title": "ミッキーのクリスマススペシャル"
       }
     }
   ]
